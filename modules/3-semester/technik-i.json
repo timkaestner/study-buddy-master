@@ -1,0 +1,90 @@
+{
+    "id": "btid-mod-3-6",
+    "modulnummer": "3.6",
+    "name": "Technik I",
+    "semester": 3,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Prof. Dr. Stefan Schwan",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Grundlagen Konstruktionstechnik & CAD",
+            "art": [
+                "vorlesung"
+            ],
+            "dozent": "Prof. Dr. Stefan Schwan",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "",
+            "name": "Grundlagen Konstruktionstechnik & CAD",
+            "art": [
+                "übung"
+            ],
+            "dozent": "Konrad Mehle, M. Eng.",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "klausur",
+            "dauer_minuten": 120
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Einführung in das Technische Zeichnen",
+                "Grundlagen des Normenwesens und der Normzahlen",
+                "allgemeine Ausführungsregeln für technische Zeichnungen",
+                "Projektionsarten: orthogonal und axonometrisch",
+                "Grundlagen der Darstellung und Bemaßung (Darstellung in Ansichten, Bruch- und Schnittdarstellungen, vereinfachte Darstellungen, Maßeintragungen)",
+                "ausgewählte Formelemente und ihre Darstellung",
+                "Technische Oberflächen",
+                "Toleranzen und Passungen",
+                "Gestaltung, Darstellung und Bemaßung einzelner Konstruktionselemente",
+                "Einführung in das komplexe 3D-CAD-System (CATIA oder Autodesk Fusion)",
+                "Modellierung von anwendungsorientierten Einzelteilen des Maschinenbaus",
+                "Ableitet einer normgerechten Einzelteilzeichnung"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden können technische Sachverhalte allgemeinverständlich und regelgerecht darstellen",
+                "Die Studierenden können die weitgehende Normung in der technischen Darstellung berücksichtigen",
+                "Die Studierenden können den spezifischen Wortschatz (Bilder, Zeichen, Symbole) sowie die „Grammatik“ (Zeichenregeln) der technischen Zeichensprache erlernen und anwenden",
+                "Die Studierenden können die Technische Zeichnung als bedeutendes Kommunikationsmittel in der Technik verstehen und eigenständig anfertigen",
+                "Die Studierenden können grundlegende Fähigkeiten im Umgang mit dreidimensionalem Computer Aided Design (CAD) entwickeln und anwenden"
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "erfolgreiches Absolvieren des Praktikums (CAD-Schein I)",
+        "vergabe_kreditpunkte": [
+            "bestandene Klausur"
+        ],
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 44 ]
+    }
+
+
+
+}

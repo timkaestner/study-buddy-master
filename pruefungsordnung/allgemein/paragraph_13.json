@@ -1,0 +1,26 @@
+{
+  "id": "p13",
+  "section": "II",
+  "section_title": "Prüfungsorganisation",
+  "paragraph": 13,
+  "citation": "§ 13",
+  "title": "Prüfungsamt",
+  "summary": "Beschreibt Einrichtung und Aufgaben des zentralen Prüfungsamts für die administrative Prüfungsorganisation.",
+  "subsections": [
+    {
+      "id": "p13s1",
+      "citation": "§ 13 Abs. 1",
+      "summary": "Beschreibt Einrichtung, Zuständigkeit und Unterstützungsfunktion des zentralen Prüfungsamts.",
+      "text": "Die Hochschule Merseburg richtet ein zentrales Prüfungsamt ein, das alle Studien - gänge der Hochschule Merseburg betreut."
+    },
+    {
+      "id": "p13s2",
+      "citation": "§ 13 Abs. 2",
+      "summary": "Regelt administrative Aufgaben des Prüfungsamts bei Prüfungsverfahren, Dokumentation und Bescheiden.",
+      "text": "Das Prüfungsamt organisiert die administrative Vorbereitung und Durchführung der Prüfungsverfahren auf Basis der Zuarbeit des jeweiligen Fachbereiches und realisiert die Prüfungsdatenverwaltung. Es fertigt die Zeugnisse und Urkunden der Hochschule Merseburg aus und unterstützt die Prüfungsausschüsse bei der Erfüllung ihrer Aufgaben im administrativen Bereich. Des Weiteren kontrolliert das Prüfungsamt die konkrete Anwendung der Studienund Prüfungsordnung und koordiniert bei Fragen zum Prüfungsgeschehen von fachbereichsübergreifender Bedeutung wie bspw. von Verfahrensvorschriften oder der einheitlichen Auslegung und Handhabung von Regelungen. Darüber hinaus unterstützt und berät das Prüfungsamt die Fachbereiche in Prüfungsangelegenheiten."
+    }
+  ],
+  "source": "Rahmenstudien- und -prüfungsordnung für das Bachelorstudium an der Hochschule Merseburg",
+  "page_from": 9,
+  "page_to": 9
+}

@@ -1,0 +1,26 @@
+{
+  "id": "p23",
+  "section": "II",
+  "section_title": "Prüfungsorganisation",
+  "paragraph": 23,
+  "citation": "§ 23",
+  "title": "Diploma Supplement",
+  "summary": "Beschreibt Zweck und Inhalt des englischsprachigen Diploma Supplements als Ergänzung zum Abschlusszeugnis.",
+  "subsections": [
+    {
+      "id": "p23s1",
+      "citation": "§ 23 Abs. 1",
+      "summary": "Regelt Ausstellung und Inhalte des Bachelorzeugnisses nach erfolgreichem Studienabschluss.",
+      "text": "Mit dem Zeugnis über den Abschluss des Bachelorstudiums wird dem Absolventen ein Diploma Supplement ausgehändigt."
+    },
+    {
+      "id": "p23s2",
+      "citation": "§ 23 Abs. 2",
+      "summary": "Regelt Ausstellung und Inhalte des Bachelorzeugnisses nach erfolgreichem Studienabschluss.",
+      "text": "Das Diploma Supplement ist eine englischsprachige Zeugnisergänzung. Es be - schreibt die absolvierten Studieninhalte, den Studienverlauf und die mit dem Abschluss erworbenen akademischen und beruflichen Qualifikationen."
+    }
+  ],
+  "source": "Rahmenstudien- und -prüfungsordnung für das Bachelorstudium an der Hochschule Merseburg",
+  "page_from": 19,
+  "page_to": 19
+}

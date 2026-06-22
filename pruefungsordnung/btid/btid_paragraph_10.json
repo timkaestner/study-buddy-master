@@ -1,0 +1,32 @@
+{
+  "id": "btid_p10",
+  "section": "Anlage 1",
+  "section_title": "Studiengangspezifische Bestimmungen für den Bachelorstudiengang Technisches Informationsdesign",
+  "paragraph": 10,
+  "citation": "§ 10",
+  "title": "Wiederholung von Einzelleistungen",
+  "summary": "Regelt Wiederholungen von Prüfungsleistungen: grundsätzlich zwei Wiederholungen, Bachelorarbeit und Kolloquium nur einmal, sowie Begrenzung zweiter Wiederholungsprüfungen.",
+  "subsections": [
+    {
+      "id": "btid_p10s1",
+      "citation": "§ 10 Abs. 1",
+      "summary": "Prüfungsleistungen können zweimal wiederholt werden; bestandene Prüfungen können grundsätzlich nicht wiederholt werden.",
+      "text": "Prüfungsleistungen können zweimal wiederholt werden. Eine bestandene Prüfung kann - mit Ausnahme der Freiversuchsregelung - nicht wiederholt werden."
+    },
+    {
+      "id": "btid_p10s2",
+      "citation": "§ 10 Abs. 2",
+      "summary": "Bachelorarbeit und Bachelorkolloquium sind nur einmal wiederholbar.",
+      "text": "Bachelorarbeit und Bachelorkolloquium sind nur einmal wiederholbar."
+    },
+    {
+      "id": "btid_p10s3",
+      "citation": "§ 10 Abs. 3",
+      "summary": "Maximal vier zweite Wiederholungsprüfungen sind im gesamten Studium zulässig; die zweite Wiederholung muss mündlich erfolgen.",
+      "text": "Während des gesamten Studiums sind maximal vier zweite Wiederholungsprüfungen zulässig, davon nicht mehr als zwei in den ersten beiden Studiensemestern. Die zweite Wiederholung einer Prüfungsleistung muss als mündliche Prüfung erfolgen."
+    }
+  ],
+  "source": "Anlage 1: Studiengangspezifische Bestimmungen für das Bachelorstudium im Studiengang „Technisches Informationsdesign“ (BTID) am Fachbereich Ingenieur- und Naturwissenschaften an der Hochschule Merseburg",
+  "page_from": 28,
+  "page_to": 28
+}

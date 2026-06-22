@@ -1,0 +1,89 @@
+{
+    
+    "id": "btid-mod-1-4",
+    "modulnummer": "1.4",
+    "name": "Angewandte Mathematik",
+    "semester": 1,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 185.5,
+    "verantwortlich": "Prof. Dr Henning Bostelmann",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Angewandte Mathematik",
+            "art": [
+                "vorlesung"
+            ],
+            "dozent": "Prof. Dr. Henning Bostelmann",
+            "sws": 3,
+            "kontaktstunden": 45,
+            "selbststudiumsstunden": 67.5
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Angewandze Mathematik",
+            "art": [
+                "übung"
+            ],
+            "dozent": "Prof. Dr. Henning Bostelmann",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "klausur",
+            "dauer_minuten": 90
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Grundlagen: Mengen, Zahlenmengen, Intervalle/ Potenzen und Wurzeln",
+                "Funktionen: Definitionsbereich, Wertevorrat und Bildmenge, Graph/ Potenz- und Wurzelfunktionen, Polynome und rationale Funktionen/Exponential- und Logarithmusfunktionen",
+                "Gleichungen und Ungleichungen: Lösungsmengen/ Lineare und quadratische Gleichungen, Polynomgleichungen höherer Ordnung/ Wurzel- und Exponentialgleichungen/ Gleichungssysteme/ Ungleichungen",
+                "Geometrie: Dreiecke und trigonometrische Funktionen/ Geometrische Figuren in der Ebene und im Raum",
+                "Lineare Algebra: Vektorrechung im R2 und R3/ Gerade und Ebene in Vektorform/ Kurven/ Lineare Gleichungssysteme und Matrizen",
+                "Defferintal- und Inegralrechnungen: Erste Ableitung von Funktionen und Ableitungsregeln/ Anwendung von Ableitungen,Extrema/ Integration von Funktionen",
+                "Komplexe Zahlen: Imaginäre Einheit i, Menge der komplexen Zahlen/ Grundrechenarten/ Gaußsche Zahlenebene, trifonomische Form komplexer Zahlen/ Vollständige Lösung quadratischer Gleichungen",
+                "Mathematik-Software (GeoGebra): Erzeugung von Graphiken (Mengen, Funktionen, (Un-)gleichungen, Ableitung, Integral, geometrische Figuren in der Ebene und im Raum, Kurven)/  Lösen von Gleichungen und Gleichungssystemen/ Berechnung von Ableitungen und Flächeninhalten"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden können mathematische Grundbegriffe aus den Lehrinhalten einordnen, diese mit mathematischen Symbolen darstellen und selbstständig erklären.",
+                "Die Studierenden können die behandelten Gleichungstypen erkennen und benennen sowie die behandelten Lösungsverfahren anwenden",
+                "Die Studierenden können den Funktionsbegriff sowie den Kurvenbegriff erläutern und voneinander abgrenzen. Sie können die behandelten Funktionstypen erkennen und benennen.",
+                "Die Studierenden beherrschen die wesentlichen Verfahren der eindimensionalen Differentialrechnung und Integralrechnung und können damit Extremalwerte von Funktionen bestimmen.",
+                "Die Studierenden beherrschen die Grundlagen der Vektorrechnung: sie können Vektoren addieren, mit einem Skalarmultiplizieren, den Betrag, das Skalarprodukt und das Kreuzprodukt berechnen. Sie können die Bedeutung der Vektorrechnung am Beispiel erläutern.",
+                "Die Studierenden können Geraden und Ebenen in vektorieller Form und in parametrisierter Form angeben.",
+                "Die Studierenden können lineare Gleichungssysteme in Matrix-Vektor-Systeme umwandeln und die Lösungsmenge angeben bzw. bestimmen.",
+                "Die Studierenden können mit komplexen Zahlen rechnen. Sie können komplexe Zahlen in der Gaußschen Zahlenebene darstellen. Sie können komplexe Zahlen in der algebraischen sowie in der trigonometrischen Form darstellen und diese Formen ineinander umrechnen.",
+                "Die Studierenden verstehen Formeln als Handlungsvorschriften und können die daraus resultierenden Berechungen vornehmen"
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "Mathematik auf dem Niveau der 10. Schulstufe",
+        "vergabe_kreditpunkte": [
+            "bestandene Klausur"
+        ],
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 20, 21 ]
+    }
+
+}

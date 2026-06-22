@@ -1,0 +1,85 @@
+{
+    
+    "id": "btid-mod-1-6",
+    "modulnummer": "1.6",
+    "name": "Technische Grundlagen I",
+    "semester": 1,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Prof. Dr. Lisa Wenige",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Technische Grundlagen I",
+            "art": [
+                "vorlesung"
+            ],
+            "dozent": "Prof. Dr. Lisa Wenige",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Technische Grundlagen I",
+            "art": [
+                "übung"
+            ],
+            "dozent": "Prof. Dr. Lisa Wenige",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "klausur",
+            "dauer_minuten": 120
+        }
+
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Begriffsbestimmung: Daten, Information, Wissen",
+                "Informationtheorie und digitale Informationen",
+                "Digitale Medien: Digitale Bilder, Texte sowie Audio- und Videoinhalte",
+                "Begriff „Information Overload“",
+                "Information Retrieval",
+                "Annotation",
+                "Indexierung",
+                "Suchabgleich (Query Matching)",
+                "Suchergebnisse und Personalisierung",
+                "Evaluation",
+                "Internetsuchmaschinen"
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden  verstehen Unterschiede und Zusammenhänge zwischen Daten, Information und Wissen.",
+                "Die Studierenden kennen Grundkonzepte der Informationstheorie.",
+                "Die Studierenden lernen Methoden der Digitalisierung und Kompression für verschiedene Medienformen und -formate kennen.",
+                "Die Studierenden erkennen Herausforderungen und Auswirkungen von „Information Overload“ in digitalen Umgebungen",
+                "Die Studierenden verstehen grundlegende Techniken des Information Retrieval sowie die Funktionsweise von Internetsuchmaschinen."
+            ]
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "bestandene Klausur"
+        ],
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 24 ]
+    }
+}

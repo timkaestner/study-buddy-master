@@ -1,0 +1,85 @@
+{
+    "id": "btid-mod-4-2",
+    "modulnummer": "4.2",
+    "name": "Visuelles Instruktionsdesign ",
+    "semester": 4,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Prof. Kerstin Alexander",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Visuelles Instruktionsdesign ",
+            "art": [
+                "seminar"
+            ],
+            "dozent": "Prof. Kerstin Alexander",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Visuelles Instruktionsdesign ",
+            "art": [
+                "übung"
+            ],
+            "dozent": "Prof. Kerstin Alexander",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "projektarbeit",
+            "bearbeitungszeitraum": "semesterbegleitend"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Grundsätze der Dialoggestaltung nach DIN 9241 - Teil 110: Aufgabenangemessenes Design, Erwartungskonformes Design, Steuerbarkeit im Design, Fehlerrobustheit im Design, Selbstbeschreibungsfähigkeit im Design",
+                "Darstellungscodierung",
+                "Steuerungscodierung",
+                "Designkonzepte erstellen: Didaktisches Konzept, Sprache-Bild-Beziehung, Leitmedium, Layout",
+                "Visualisierungsarten des Instruktionsdesigns: Bedienfolgen, Piktogramme"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden kennen die Grundsätze der Dialoggestaltung nach DIN 9241 - Teil 110 und können diese gezielt im Instruktionsdesign anwenden. ",
+                "Die Studierenden entwickeln Designkonzepte. ",
+                "Die Studierenden können Designkonzepte umsetzen",
+                "Die Studierenden können grafische Elemente zur Steuerungscodierung entwickeln und gezielt einsetzen.",
+                "Die Studierenden können Elemente der Darstellungscodierung entwickeln und einsetzen gezielt einsetzen.",
+                "Die Studierenden können Bedienfolgen gestalten.",
+                "Die Studierenden können Piktogramme gestalten."
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "erfolgreiche projektarbeit"
+        ],
+        "haeufigkeit_des_angebots": "Sommersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 48, 49 ]
+    }
+
+
+
+}

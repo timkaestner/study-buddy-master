@@ -1,0 +1,79 @@
+{
+    "id": "vtid-mod-2-4",
+    "modulnummer": "2.4",
+    "name": "Dialogsysteme",
+    "semester": 2,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Prof. Dr. Lisa Wenige",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Dialogsysteme",
+            "art": [
+                "seminar"
+            ],
+            "dozent": "Prof. Dr. Lisa Wenige",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Dialogsysteme",
+            "art": [
+                "seminar"
+            ],
+            "dozent": "Prof. Dr. Lisa Wenige",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "seminararbeit/hausarbeit",
+            "bearbeitungszeitraum": "2 Monate"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Begriffsbestimmung: Sprachassistenten, Frage-Antwort-Systeme, Chatbots",
+                "Einsatzmöglichkeiten und Beschränkungen von Dialogsystemen im Bereich der Technischen Dokumentation",
+                "Komponenten von Dialogsystemen: Absichts- und Entitätserkennung, Kontext, Dialogmanagement",
+                "Konzeption und Implementierung eines Dialogsystems in einem Praxisprojekt"
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden kennen die grundlegenden Konzepte von Dialogsystemen.",
+                "Die Studierenden verstehen die Möglichkeiten und Grenzen des Einsatzes von Dialogsystemen insb. im Bereich der Technischen Dokumentation",
+                "Die Studierenden kennen Gestaltungsprinzipien und typische Komponenten von Dialogsystemen.",
+                "Die Studierenden erlernen die Konzeption und Programmierung eines Dialogsystems in einem praxisorientierten Projekt."
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "erfolgreiche Seminararbeit/ Hausarbeit"
+        ],
+        "haeufigkeit_des_angebots": "Sommersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 30 ]
+    }
+
+
+
+}

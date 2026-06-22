@@ -1,0 +1,79 @@
+{
+    "id": "btid-mod-5-4",
+    "modulnummer": "5.4",
+    "name": "D: Projekt Gamification & Virtual Reality",
+    "semester": 5,
+    "modultyp": "wahlpflicht",
+    "credits": 10,
+    "workload_stunden": 300,
+    "verantwortlich": "Prof. Marco Zeugner",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "gesamtmodul",
+            "name": "Projekt Gamification & Virtual Reality",
+            "art": [
+                "projekt"
+            ],
+            "dozent": "Prof. Marco Zeugner",
+            "sws": 8,
+            "kontaktstunden": 120,
+            "selbststudiumsstunden": 180
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "projektarbeit",
+            "bearbeitungszeitraum": "semesterbegleitend"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Wirkungsweise und Implementierung von Gamification",
+                "Gamification vs. Serious Games",
+                "Spieldesign und geeignete Spielmechaniken",
+                "Gamification in Management- und Wirtschaftsprozessen sowie in Lehre und Ausbildung",
+                "soziale Fragen zu Freiwilligkeit und Zwang",
+                "Einführung in XR-Konzepte und –Technologien (Virtual Reality, Augmented Reality, Mixed Realitiy)",
+                "Software zur Erstellung von XR-Inhalten (wie z.B. 3D-Modelle, Animationen, User Interfaces, Programmabläufe/ Interaktionen",
+                "XR-spezifisches Interaktionsdesign und User-Experience-Design",
+                "Prozesse in der Wissensvermittlung werden anhand praxisnaher Projekte mit fortgeschrittenen VRund Gamification-Konzepten verbunden",
+                "Nutzenanalyse, Evaluation"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden vertiefen spezifisches Wissen aus den Bereichen Multimediadesign, Spieldesign und Gamification.",
+                "Die Studierenden beherrschen textuelles und visuelles Scripting in Game Engines.",
+                "Die Studierenden können VR-, AR- und MR-Anwendungen entwickeln.",
+                "Die Studierenden erproben Techniken zur Verstärkung von Immersion.",
+                "Die Studierenden lernen, komplexe Gamification-Projekte zu konzeptionieren und umzusetzen",
+                "Die Studierenden üben Projektmanagement, Projektführung und interdisziplinäre Zusammenarbeit.",
+                "Die Studierenden verbessen ihr wissenschaftliches Arbeiten und trainieren Projektpräsentationen."
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "erfolgreiche projektarbeit"
+        ],
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 63 ]
+    }
+
+
+
+}

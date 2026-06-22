@@ -1,0 +1,26 @@
+{
+  "id": "btid_p11",
+  "section": "Anlage 1",
+  "section_title": "Studiengangspezifische Bestimmungen für den Bachelorstudiengang Technisches Informationsdesign",
+  "paragraph": 11,
+  "citation": "§ 11",
+  "title": "Freiversuch",
+  "summary": "Regelt Freiversuche: insgesamt drei möglich, aber ausgeschlossen für Bachelorarbeit und Bachelorkolloquium; Voraussetzungen und Folgen werden festgelegt.",
+  "subsections": [
+    {
+      "id": "btid_p11s1",
+      "citation": "§ 11 Abs. 1",
+      "summary": "Im Studiengang sind drei Freiversuche möglich; für Bachelorarbeit und Bachelorkolloquium sind sie ausgeschlossen.",
+      "text": "Insgesamt sind drei Freiversuche in diesem Studiengang möglich. Für die Bachelorarbeit und das Bachelorkolloquium sind Freiversuche ausgeschlossen."
+    },
+    {
+      "id": "btid_p11s2",
+      "citation": "§ 11 Abs. 2",
+      "summary": "Freiversuche gelten nur bei regulär oder vorzeitig abgelegten Prüfungen und können Nichtbestehen unberücksichtigt lassen oder zur Notenverbesserung genutzt werden.",
+      "text": "Freiversuche können nur in Anspruch genommen werden, wenn die betreffende Prüfung zum regulären Zeitpunkt laut Studienplan oder vorzeitig erfolgte. Wurde die Prüfung aufgrund der erbrachten Leistung nicht bestanden, erfolgt beim Freiversuch keine Anrechnung auf die Wiederholungsmöglichkeit. Wurde die Prüfung bestanden, kann durch den Freiversuch eine Wiederholung zur Notenverbesserung erfolgen. In beiden Fällen muss die nächste reguläre Möglichkeit zur erneuten Prüfung wahrgenommen werden. Der Freiversuch wird jedoch als Prüfung angerechnet, wenn die Prüfung aufgrund eines ordnungswidrigen Verhaltens, insbesondere eines Täuschungsversuches, für nicht bestanden erklärt wurde."
+    }
+  ],
+  "source": "Anlage 1: Studiengangspezifische Bestimmungen für das Bachelorstudium im Studiengang „Technisches Informationsdesign“ (BTID) am Fachbereich Ingenieur- und Naturwissenschaften an der Hochschule Merseburg",
+  "page_from": 28,
+  "page_to": 29
+}

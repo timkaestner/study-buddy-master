@@ -1,0 +1,83 @@
+{
+    "id": "btid-mod-2-2",
+    "modulnummer": "2.2",
+    "name": "Multimediale Visualisierung",
+    "semester": 2,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Prof. Marco Zeugner",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Multimediale Visualisierung",
+            "art": [
+                "vorlesung"
+            ],
+            "dozent": "Prof. Marco Zeugner",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Multimediale Visualisierung",
+            "art": [
+                "übung"
+            ],
+            "dozent": "Prof. Marco Zeugner",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "Seminararbeit/ Hausarbeit",
+            "bearbeitungszeitraum": "2 Monate"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "technische Grundlagen der 2D-Visualisierung: technische Aspekte der Grafikformate/  gestalterische Einsatzmöglichkeiten der verschiedenen Grafiktypen",
+                "Workflow zur Erstellung einer Infografik: geeignete Anwendungen kennenlernen (z.B. Adobe Photoshop)/ Erstellung von Bitmap- und Vektor-Grafiken/ Einsatz von Perspektive und Isometrie",
+                "Grundlagen der 2D-Animation",
+                "Workflow zur prototypischen Umsetzung einer informativen Website: Verwendung von grafisch-orientierter Webdesign-Software (z.B. Adobe Dreamweaver)/ Vermittlung von Grundkenntnissen HTML und CSS"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden kennen die relevanten Grafikformate und deren technische Eigenschaften.",
+                "Die Studierenden verstehen die Unterschiede zwischen Raster- bzw. Bitmap-Grafiken und Vektorgrafiken.",
+                "Die Studierenden besitzen Grundlagenkenntnisse der 2D-Animation.",
+                "Die Studierenden können Software und Editoren zur Erstellung von Grafiken, Animationen und Websites benutzen.",
+                "Die Studierenden entwickeln eine einfache, informative Website."
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "erfolgreiche Seminararbeit/ Hausarbeit"
+        ],
+        "haeufigkeit_des_angebots": "Sommersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 27 ]
+    }
+
+
+
+
+}

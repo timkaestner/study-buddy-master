@@ -1,0 +1,113 @@
+{
+    "id": "btid-mod-3-5",
+    "modulnummer": "3.5",
+    "name": "Einführung KI und Grundlagen Spieldesign",
+    "semester": 3,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Prof. Marco Zeugner",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Einführung Künstliche Intelligenz ",
+            "art": [
+                "vorlesung",
+                "übung"
+            ],
+            "dozent": "Prof. Dr. Lisa Wenige",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Grundlagen Spieldesign ",
+            "art": [
+                "vorlesung",
+                "übung"
+            ],
+            "dozent": "Prof. Marco Zeugner",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "lv1",
+            "form": "referat",
+            "dauer_minuten": 30
+        },
+        {
+            "bezug": "lv2",
+            "form": "seminararbeit/ hasuarbeit",
+            "bearbeitungszeitraum": "2 Monate"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Praktische Einsatzmöglichkeiten von Datenanalyse- und KI-Verfahren",
+                "Methodik der Wissensgewinnung aus Datenbanken",
+                "Datenvorverarbeitung",
+                "Überwachtes Lernen (Supervised Learning)",
+                "Unüberwachtes Lernen (Unsupervised Learning)",
+                "Neuronale Netze"
+
+            ]
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "Aspekte des Spiels: Geschichte, Psychologie, Gesellschaft",
+                " allgemeine Spieltheorie",
+                "Grundlagen Spielekonzeption: Ideenfindung, Elemente eines Spiels, Storytelling, Konzepterstellung, Technik",
+                " Grundlagen Spieldesign: Spielmechanik, Interaktionsdesign, Spielspaß und Motivation, Level-Design, Spielerführung, Balancing und Usability"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Die Studierenden verstehen die Bedeutung von maschinellen Lernverfahren im beruflichen Kontext",
+                "Die Studierenden erlernen Methoden zur Bereinigung und Normalisierung von Daten.",
+                "Die Studierenden verstehen Grundprinzipien gängiger Datenanalysemethoden und KI-Techniken",
+                "Die Studierenden können für einen gegebenen Datensatz mit gängigen Softwaretools selbstständig kleine Datenanalysen durchführen."
+
+            ]
+
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "Die Studierenden erlernen die Grundlagen des Spieldesigns.",
+                "Die Studierenden führen praktische Übungen zu den einzelnen Schwerpunkten durch",
+                "Die Studierenden können Spielekonzepte konzeptionell erarbeiten. ",
+                "Die Studierenden lernen grundlegende Fähigkeiten zum Projektmanagement bei der Entwicklung von Games",
+                "Die Studierenden  lernen, interdisziplinäre Gesichtspunkte einzubringen."
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "lv1: erfolgreiches Referart",
+            "lv2: erfolgreiche seminararbeit/ hausarbeit"
+        ],
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 42, 43 ]
+    }
+
+
+
+}

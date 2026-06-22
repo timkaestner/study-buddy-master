@@ -1,0 +1,116 @@
+{
+    "id": "btid-mod-2-5",
+    "modulnummer": "2.5",
+    "name": "Ergämzungsfächer II",
+    "semester": 2,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden":150,
+    "verantwortlich": "Prof. Marco Zeugner",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Technical English II",
+            "art": [
+                "seminar"
+            ],
+            "dozent": "Uwe Schiffke",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Wissenschaftliches Arbeiten",
+            "art": [
+                "seminar"
+            ],
+            "dozent": "Dr. Frank Baumann",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "lv1",
+            "form": "referat",
+            "dauer_minuten":30
+        },
+        {
+            "bezug": "lv2",
+            "form": "referat",
+            "dauer_minuten":30
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "dialogisches und monologisches Sprechen, vorbereitete und spontane Gespräche",
+                "Beherrschung kooperativer und kontroverser Gesprächsstrategien: z.B. Defining Objects, Explaining Diagrams on a Technical Subject, Describing and Explaining Functions",
+                "Warnings, Diagnosing a Fault, Giving Cause and Effect, Translating Technical Information",
+                "Making a Presentation (Presenting Information, Summarizing, Concluding, Chairing, Discussion)",
+                "Translation Techniques"
+
+            ]
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "Themenfindung/ Fragestellungen",
+                "Recherche",
+                "Lesetechniken",
+                "Wissenschaftliche (Hilfs-)Textsorten",
+                "Aufbau und Inhalt einer wissenchaftlichen Arbeit",
+                "Zitieren und Quellenangaben",
+                "Wissenschaftssprache und Wissenschaftlichkeit",
+                "Formalia einer wissenschaftlichen Arbeit",
+                "Gestaltung wissenschaftlicher Arbeiten mit Textverarbeitungsprogrammen",
+                "Zeitmanagment",
+                "Umgang mit Schreibblockaden"
+
+
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Die Studierenden vertiefen allgemein ihre sprachkommunikativen Fertigkeiten in der englischen Sprache",
+                "Die Studierenden vertiefen insbesondere ihre sprachkommunikativen Fertigkeiten der Wiedergabe und des Darbietens von technischen Informationen und des zieladäquaten Gebrauchs der Sprachmittel für unmittelbares Reagieren und initiativreiches Verhalten in Fachdiskussionen und Präsentationen technischer Thematik"
+            ]
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "Die Studierenden können ein Thema für eine wissenschaftliche Arbeit finden, dieses eingrenzen sowie eine adäquate Fragestellung entwickeln.",
+                "Die Studierenden können zielgerichtet recherchieren und die gefundenen Quellen verarbeiten.",
+                "Die Studierenden lernen den Aufbau einer wissenschaftlichen Arbeit kennen und können einen inhaltlichen roten Faden entwickeln.",
+                "Die Studierenden lernen wissenschaftliche Formulierungsmuster kennen.",
+                "Die Studierenden sind in der Lage, eigene von fremden Gedanken zu trennen und letztere kenntlich zu machen.",
+                "Die Studierenden können selbstständig eine wissenschaftliche Arbeit verfassen."
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "lv1: erflogreiches Referat",
+            "lv2: erflogreiches Referat"
+        ],
+        "haeufigkeit_des_angebots": "Sommersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 31, 32 ]
+    }
+
+
+
+}

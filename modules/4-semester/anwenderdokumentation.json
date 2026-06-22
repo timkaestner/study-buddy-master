@@ -1,0 +1,84 @@
+{
+    "id": "btid-mod-4-1",
+    "modulnummer": "4.1",
+    "name": "Anwenderdokumentation",
+    "semester": 4,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Prof. Dr. Michael Meng",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Anwenderdokumentation",
+            "art": [
+                "vorlesung"
+            ],
+            "dozent": "Prof. Dr. Michael Meng",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Anwenderdokumentation",
+            "art": [
+                "projekt"
+            ],
+            "dozent": "Prof. Dr. Michael Meng",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "projektarbeit",
+            "bearbeitungszeitraum": "semesterbegleitend"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Arten von Anwenderdokumentation, allgemeine und spezielle Inhalte, Makrostruktur",
+                "Informationsarten in der Anwenderdokumentation: ihre sprachliche und visuelle Gestaltung",
+                "Ausführung und Platzierung sicherheitsrelevanter Information",
+                "Methoden der standardisierten Textproduktion und ihre Anwendung auf Anwenderdokumentation",
+                "Allgemeine Gestaltungsregeln und Bewertungskriterien für Anwenderdokumentation",
+                "Theoretische Grundlagen und praktische Verfahren des Terminologiemanagements",
+                " Planung von Anwenderdokumentation: Produkt- und Normenrecherche, Nutzer- und Aufgabenanalyse, Konzeptentwicklung"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden kennen strukturelle, sprachliche und visuelle Mittel der Anwenderunterstützung kennen und können diese gezielt einsetzen. ",
+                "Die Studierenden lernen, Informationsarten, ihre sprachliche Repräsentation und visuelle Präsentation zu unterscheiden und funktional einzusetzen",
+                "Die Studierenden wenden Kenntnisse zu Satz, Layout und Bildgestaltung zielgerichtet und beispielhaft auf die Spezifik der Textsorte Anwenderdokumentation an. ",
+                "Die Studierenden verstehen und erproben typische Projektabläufe bei der Planung und Erstellung von Anwenderdokumentation über die selbständige Durchführung eines Dokumentationsprojekts."
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "erfolgreiche projektarbeit"
+        ],
+        "haeufigkeit_des_angebots": "Sommersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 47 ]
+    }
+
+
+
+}

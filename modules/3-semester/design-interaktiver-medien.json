@@ -1,0 +1,86 @@
+{
+    "id": "btid-mod-3-4",
+    "modulnummer": "3.4",
+    "name": "Design interaktiver Medien",
+    "semester": 3,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Prof. Marco Zeugner",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Design interaktiver Medien",
+            "art": [
+                "vorlesung"
+            ],
+            "dozent": "Prof. Marco Zeugner",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Design interaktiver Medien",
+            "art": [
+                "übung"
+            ],
+            "dozent": "Prof. Marco Zeugner",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "seminararbeit/ hausarbeit",
+            "bearbeitungszeitraum": "2 Monate"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Grundlagen der Planung und Entwicklung interaktiver Anwendungen",
+                "Bedeutung des User Experience Designs",
+                "Kennenlernen der Potentiale von Interaktivität in der Wissensvermittlung anhand interaktiver Infografiken",
+                "Vertiefung in Programme zur Erstellung interaktiver Anwendungen",
+                "Einsatz von 3D- bzw. Echtzeit-Engines",
+                "WebGL- und App-Entwicklung"
+
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden kennen die Entwicklungsphasen und das konzeptionelle Vorgehen zur Gestaltung digitaler, interaktiver Anwendungen",
+                "Die Studierenden verfügen über Kenntnisse in der Vermittlung komplexer Inhalte mit Hilfe digitaler, interaktiver Medien. ",
+                "Die Studierenden können sicher mit Programmen und Technologien zur Erstellung interaktiver Anwendungen umgehen.",
+                "Die Studierenden planen selbstständig multimediale, interaktive Projekte",
+                "Die Studierenden bereiten technische, informative Inhalte zielgruppenspezifisch und zeitgemäß auf",
+                "Die Studierenden lernen, eine optimale User Experience für interaktive Anwendungen in der technischen Kommunikation zu gestalten"
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "erfolgreiche seminararbeit/ hausarbeit"
+        ],
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 41 ]
+    }
+
+
+
+}

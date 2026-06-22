@@ -1,0 +1,88 @@
+{
+    "id": "btid-mod-4-1",
+    "modulnummer": "4.1",
+    "name": "Content-Managment",
+    "semester": 4,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Dr. Thomas Meinike",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Content-Managment",
+            "art": [
+                "vorlesung"
+            ],
+            "dozent": "Dr. Thomas Meinike",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Content-Managment",
+            "art": [
+                "übung"
+            ],
+            "dozent": "Dr. Thomas Meinike",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "klausur",
+            "dauer_minuten": 90
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Strukturierte Dokumentenformate wie DocBook und DITA",
+                "Containerformate von Microsoft Office und OpenOffice",
+                "E-Book-Formate wie EPUB 2 und 3",
+                " InDesign-Austauschformat IDML",
+                "Vektorgrafikformat SVG",
+                "Mathematisches Formelformat MathML",
+                "Newsfeed-Transportformate Atom und RSS",
+                "PDF-Produktion mittels XSL-FO und Print-CSS",
+                "XSLT (insbesondere 2.0 und 3.0) zur automatisierten Produktion der genannten Formate",
+                "Prinzipien und Technologien des Single-Source-Publishings mit XML-Datenhaltung",
+                " Web-Content-Management-Systeme vs. Redaktionssysteme in Theorie und Praxis",
+                "Praktische Arbeit mit prototypischer Software"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden vertiefen ihre Kenntnisse zu XML-Grundlagen und lernen insbesondere im Dokumentationsbereich relevante Formate und Technologien kennen.",
+                "Die Studierenden üben den Einsatz von XSLT und XSL-FO/Print-CSS mit spezieller Software wie XSLT-Prozessoren und PDF-Formatierern.",
+                "Die Studierenden arbeiten mit je einem Web-CMS bzw. Redaktionssystems und verstehen die wesentlichen Schritte beim automatisierten Erstellen von Inhalten. " 
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "bestandene klausur"
+        ],
+        "haeufigkeit_des_angebots": "Sommersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 50, 51 ]
+    }
+
+
+
+}

@@ -1,0 +1,89 @@
+{
+    "id": "btid-mod-4-6",
+    "modulnummer": "4.6",
+    "name": "Technik II",
+    "semester": 4,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Prof. Dr. Julia Beate Langer",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Werkstofftechnik",
+            "art": [
+                "vorlesung",
+                "übung"
+            ],
+            "dozent": "Dr. Susanne Fiedler",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Werkstofftechnik",
+            "art": [
+                "praktikum"
+            ],
+            "dozent": "Dr. Susanne Fiedler",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "klausur",
+            "dauer_minuten": 120
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Geschichte /Einteilung der Werkstoffe",
+                "Struktur der Werkstoffe",
+                "Zustandsdiagramme",
+                "Verformung und Festigkeitssteigerung von Metallen",
+                "Langzeitverhalten von Metallen",
+                "Korrosion",
+                "Stahl und Gusseisen",
+                "Nichteisenmetalle",
+                "Anorganisch- nichtmetallische Werkstoffe"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden erlangen Grundlagen zu Werkstoffaufbau und -verhalten bei Beanspruchung und Grundkenntnisse zu den 4 Werkstoffhauptgruppen. ",
+                "Die Studierenden können darauf aufbauend Erkenntnisse zwischen strukturellem Aufbau und Werkstoffeigenschaften herstellen. ",
+                "Die Studierenden können das technische Regelwerk zur Lösung von Aufgabenstellungen anwenden.",
+                "Die Studierenden stärken ihre Teamfähigkeit durch Gruppenarbeit.",
+                "Die Studierenden wenden Grundregeln zur Erstellung wissenschaftlicher Arbeiten an."
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "erfolgreiches Absolvieren des Praktikums",
+            "bestandene Klausur"
+        ],
+        "haeufigkeit_des_angebots": "Sommersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 55, 56 ]
+    }
+
+
+
+}

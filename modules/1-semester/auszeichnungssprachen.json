@@ -1,0 +1,89 @@
+{
+    
+    "id": "btid-mod-1-2",
+    "modulnummer": "1.2",
+    "name": "Auszeichnugssprachen",
+    "semester": 1,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Dr. THomas Meinike",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Auszeichnungsprachen",
+            "art": [
+                "vorlesung"
+            ],
+            "dozent": "Dr. Thomas Meinike",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Auszeichungssprachen",
+            "art": [
+                "übung"
+            ],
+            "dozent": "Dr. Thomas Meinike",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "Klausur",
+            "dauer_minuten": 90
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Grundlagen der Auszeichnungssprache HTML, speziell HTML5",
+                "Allgemeine Dokumentstrukturierung",
+                "Wesentliche Elemente und Attribute",
+                "Formatierung von Inhalten mit CSS",
+                "Darstellung in Web-Browsern",
+                "Besonderheiten bei der Nutzung von XHTML"
+            ]
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "Historischer Abriss zu XML und dessen Basis SGML",
+                "Allgemeiner Dokumentaufbau",
+                "Auszeichnung und Strukturierung von Inhalten",
+                "Regelkonformer Einsatz von Elementen, Attributen, Entitys und Kommentaren",
+                "Zeichenkodierung",
+                "Modellierung und Validierung von Dokumenten mittels DTD und XML-Schema",
+                "Möglichkeiten und Grenzen der XML-Formatierung mit CSS",
+                "XML-Verarbeitung mit XSLT in typische Zielformate wie HTML und andere XML-Strukturen"
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden erwerben anwendungsbereite Kenntnisse zum Einsatz von HTML- und XML-Technologien, um diesein darauf aufbauenden Kursen wie Online-Dokumentation und Content-Management anwenden zukönnen."
+            ]
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "bestandene Klasur"
+        ],
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 16, 17 ]
+    }
+}
+       

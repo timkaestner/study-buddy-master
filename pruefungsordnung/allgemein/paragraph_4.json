@@ -1,0 +1,32 @@
+{
+  "id": "p4",
+  "section": "I",
+  "section_title": "Allgemeine Bestimmungen",
+  "paragraph": 4,
+  "citation": "§ 4",
+  "title": "Zulassung",
+  "summary": "Beschreibt die Zulassungsvoraussetzungen für Bachelorstudiengänge und verweist auf allgemeine, studiengangsspezifische sowie rechtliche Regelungen.",
+  "subsections": [
+    {
+      "id": "p4s1",
+      "citation": "§ 4 Abs. 1",
+      "summary": "Beschreibt die allgemeinen Hochschulzugangsvoraussetzungen für die Zulassung zum Bachelorstudiengang.",
+      "text": "Zum Bachelorstudiengang wird zugelassen, wer über die in § 27 HSG LSA genannten Voraussetzungen verfügt, dazu zählen u. a. die allgemeine Hochschulreife, die fachgebundene Hochschulreife oder die Fachhochschulreife. Für den Hochschulzugang ohne Hochschulzugangsberechtigung gelten darüber hinaus die Bestimmungen der Prüfungsordnung zur Feststellung der Studienbefähigung besonders b efähigter Berufstätiger ohne Hochschulzugangsberechtigung der Hochschule Merseburg."
+    },
+    {
+      "id": "p4s2",
+      "citation": "§ 4 Abs. 2",
+      "summary": "Erlaubt studiengangsspezifische Bestimmungen mit zusätzlichen Zulassungsvoraussetzungen.",
+      "text": "Die studiengangspezifischen Bestimmungen können weitere Zulassungsvoraussetzungen vorsehen."
+    },
+    {
+      "id": "p4s3",
+      "citation": "§ 4 Abs. 3",
+      "summary": "Stellt klar, dass Zulassungsbeschränkungen einzelner Studiengänge von den allgemeinen Zulassungsregeln unberührt bleiben.",
+      "text": "Zulassungsbeschränkungen für einzelne Studiengänge bleiben unberührt."
+    }
+  ],
+  "source": "Rahmenstudien- und -prüfungsordnung für das Bachelorstudium an der Hochschule Merseburg",
+  "page_from": 3,
+  "page_to": 3
+}

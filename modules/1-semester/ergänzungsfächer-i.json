@@ -1,0 +1,102 @@
+{
+    
+    "id": "btid-mod-1-5",
+    "modulnummer": "1.5",
+    "name": "Ergämzungsfächer I",
+    "semester": 1,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Prof. Marco Zeugner",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Technical English I",
+            "art": [
+                "seminar"
+            ],
+            "dozent": "Uwe Schiffke",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Rhetorik und Präsentationstechnik",
+            "art": [
+                "seminar"
+            ],
+            "dozent": "N. N.",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "lv1",
+            "form": "klausur",
+            "dauer_minuten": 60
+        },
+        {
+            "bezug": "lv2",
+            "form": "vortrag",
+            "dauer_minuten": 30
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Reaktivierung und aufbauende Kenntnisvermittlung berufsbezogener fremdsprachlicher Strukturen",
+                "Vermittlung einfacher grammatischer Grundstrukturen, insbesondere unter dem Aspekt der fachlichen Kommunikation -Vermittlung einfacher lexikalischsyntaktischer und stilistischer Strukturen berufsfeldbezogener Thematik",
+                "Getting to know the workplace: z.B. Making Arrangements; Jobs and Careers -Processes and Operations: z.B. Explaining and Describing Technical Processes; Describing Product Features and Components; Understanding and Giving Instructions; Talking about Specifications; Describing Graphs"
+
+            ]
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "inhaltliche Konzeption von Präsentationen",
+                "visuelle Umsetzung",
+                "rhetorische Techniken"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Die Studierenden  verfügen über Kenntnisse im Gebrauch der englischen Sprache zur Kommunikation technischer Sachverhalte.",
+                "Die Studierenden verstehen englischsprachige Fachtexte technischer Thematik, Vorträge, Vorlesungen, Gespräche, Kommentare und Interviews mittleren Schwierigkeitsgrades.",
+                "Die Studierenden verfassen englischsprachige technische Anleitungen, Mitteilungen und Resümees."
+
+            ]
+
+
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "Die Studierenden  kennen die Kriterien einer erfolgreichen und überzeugenden Darstellung in Arbeitsprozessen, Argumentationen und Präsentationen mit visuellen und verbalen Mitteln.",
+                "Die Studierenden können Inhalte für Präsentationen selbstständig erarbeiten, visuell umsetzen und mit persönlicher Überzeugungskraft (Auftreten/Körpersprache) kommunizieren."
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "lv1: bestandene Klausur",
+            "lv2: erfolgreiches Referat"
+        ],
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 22, 23 ]
+    }
+}

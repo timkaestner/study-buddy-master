@@ -1,0 +1,38 @@
+{
+  "id": "p30",
+  "section": "II",
+  "section_title": "Prüfungsorganisation",
+  "paragraph": 30,
+  "citation": "§ 30",
+  "title": "Durchführungsbestimmungen des Studienmodells",
+  "summary": "Beschreibt Umfang, Modulstruktur, Anrechnung und Abschluss des Studienmodells KOMPASS.",
+  "subsections": [
+    {
+      "id": "p30s1",
+      "citation": "§ 30 Abs. 1",
+      "summary": "Beschreibt Zweck, Zugang oder Durchführung des Studienmodells KOMPASS.",
+      "text": "Das Studienmodell KOMPASS umfasst ein Semester, das in den nach § 7 Abs. 1 dafür vorgesehenen Studiengängen vorgeschaltet werden kann. KOMPASS ist ein vollwertiges Studiensemester und kann nur ein Semester studiert werden. 1 Welche Studiengänge das Studienmodell KOMPASS anbieten, ist den studiengangspezifischen Bestimmungen gemäß § 8 Abs. 1 zu entnehmen."
+    },
+    {
+      "id": "p30s2",
+      "citation": "§ 30 Abs. 2",
+      "summary": "Legt die 30 CP des Studienmodells KOMPASS und die dafür vorgesehenen Module fest.",
+      "text": "Im Studienmodell KOMPASS können 30 CP erworben werden, die sich aus den folgenden Modulen ergeben: Modul-Nr. Bezeichnung CP Fachsemester benotet (Anzahl) unbenotet K-001 Mathematik I 5 1 1 K-002 Physik I/Informatik I 5 1 1 K-003 Orientierungsfach 12 5 1 1 K-004 Orientierungsfach 22 5 1 1 K-005 Berufliche Orientierung 5 1 1 K-006 Überfachliche Kompetenzen 5 1 1 Summe 30"
+    },
+    {
+      "id": "p30s3",
+      "citation": "§ 30 Abs. 3",
+      "summary": "Beschreibt Zweck, Zugang oder Durchführung des Studienmodells KOMPASS.",
+      "text": "Der Antrag auf Studiengangswechsel in einen anderen Studiengang, in dem das Studienmodell KOMPASS angeboten wird, ist bis zum 15. 09. im Studentensekretariat der Hochschule Merseburg zu stellen."
+    },
+    {
+      "id": "p30s4",
+      "citation": "§ 30 Abs. 4",
+      "summary": "Regelt Voraussetzungen und Folgen eines Freiversuchs in geeigneten Studiengängen.",
+      "text": "Alle Prüfungen im Studienmodell KOMPASS sind Freiversuche und werden nicht auf die Anzahl der in den studiengangspezifischen Bestimmungen festgelegten Anzahl der Freiversuche angerechnet."
+    }
+  ],
+  "source": "Rahmenstudien- und -prüfungsordnung für das Bachelorstudium an der Hochschule Merseburg",
+  "page_from": 21,
+  "page_to": 22
+}

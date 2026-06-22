@@ -1,0 +1,32 @@
+{
+  "id": "p26",
+  "section": "II",
+  "section_title": "Prüfungsorganisation",
+  "paragraph": 26,
+  "citation": "§ 26",
+  "title": "Ungültigkeit von Prüfungsleistungen",
+  "summary": "Regelt die nachträgliche Ungültigkeit von Prüfungsleistungen und den Umgang mit fehlerhaften Voraussetzungen.",
+  "subsections": [
+    {
+      "id": "p26s1",
+      "citation": "§ 26 Abs. 1",
+      "summary": "Regelt Ausstellung und Inhalte des Bachelorzeugnisses nach erfolgreichem Studienabschluss.",
+      "text": "Hat der Kandidat bei einer Prüfungsleistung getäuscht und wird diese Tatsache erst nach der Aushändigung des Zeugnisses bekannt, kann der Prüfungsausschuss nachträglich das Ergebnis und ggf. die Noten für diejenigen Prüfungsleistungen, bei deren Erbringen der Kandidat getäuscht hat, entsprechend berichtigen und die Prüfungsleistung ganz oder teilweise für nicht bestanden erklären."
+    },
+    {
+      "id": "p26s2",
+      "citation": "§ 26 Abs. 2",
+      "summary": "Regelt Folgen, wenn Zulassungsvoraussetzungen für ein Modul nachträglich als nicht erfüllt festgestellt werden.",
+      "text": "Waren die Voraussetzungen für die Zulassung zu einem Modul, in dessen Rahmen eine Prüfungsleistung erbracht wurde, nicht erfüllt, ohne dass der Kandidat hierüber täuschen wollte, und wird diese Tatsache erst nach Bekanntgabe der Note der Prüfungsleistung bekannt, wird dieser Mangel durch das Bestehen der Prüfungsleistung geheilt. Hat der Kandidat die Zulassung vorsätzlich zu Unrecht erwirkt, entscheidet der Prüfungsausschuss unter Beachtung des Verwaltungsverfahrensgesetzes für das Land Sachsen-Anhalt über die Rechtsfolgen. Dem Kandidaten ist vor einer Entscheidung Gelegenheit zur Stellungnahme zu geben."
+    },
+    {
+      "id": "p26s3",
+      "citation": "§ 26 Abs. 3",
+      "summary": "Regelt Ausstellung und Inhalte des Bachelorzeugnisses nach erfolgreichem Studienabschluss.",
+      "text": "Das unrichtige Zeugnis wird eingezogen, ggf. wird ein neues erteilt. Eine Entscheidung nach Absatz 1 und Absatz 2 Satz 2 ist nach einer Frist von fünf Jahren ab dem Datum des Prüfungszeugnisses ausgeschlossen."
+    }
+  ],
+  "source": "Rahmenstudien- und -prüfungsordnung für das Bachelorstudium an der Hochschule Merseburg",
+  "page_from": 20,
+  "page_to": 21
+}

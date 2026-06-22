@@ -1,0 +1,97 @@
+{
+    "id": "btid-mod-3-3",
+    "modulnummer": "3.3",
+    "name": "Visuelle Gestaltung",
+    "semester": 3,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Prof. Marco Zeugner",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Grundlagen der 3D-Visualisierung",
+            "art": [
+                "vorlesung"
+            ],
+            "dozent": "Prof. Marco Zeugner",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Grundlagen der 3D-Visualisierung",
+            "art": [
+                "übung"
+            ],
+            "dozent": "Prof. Marco Zeugner",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "seminararbeit/ hausarbeit mit referat",
+            "bearbeitungszeitraum": "2 Monate"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Bildkomposition: Wahrnehmung, Gesetze der Gestaltblidung, Regelen für gutes Design, Übung zur Bildkomposition",
+                "Farbenlehre: Übung zur Farbenlehre"
+
+            ]
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "Erlernen der Bildbearbeitungssoftware Photoshop"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Die Studierenden kennen die Grundlagen der visuellen Gestaltung und können diese anwenden",
+                "Die Studierenden verstehen es, die Gesetzmäßigkeiten der visuellen Wahrnehmung gezielt für Gestaltungszwecke einzusetzen",
+                "Die Studierenden können die Möglichkeiten und Grenzen der visuellen Kommunikation einschätzen",
+                "Die Studierenden entwickeln bildkompositorische Fähigkeiten",
+                "Die Studierenden können grafische Konzepte erstellen"
+
+            ]
+
+        },
+        {
+            "bezug": "",
+            "inhalte": [
+                "Die Studierenden kennen die Bildbearbeitungssoftware Photoshop",
+                "Die Studierenden können Fotos bearbeiten und Grafiken im Photoshop optimieren"
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "erfolgreiche seminararbeit/ hausarbeit",
+            "erfolgreiches referat"
+        ],
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 39, 40 ]
+    }
+
+
+
+}

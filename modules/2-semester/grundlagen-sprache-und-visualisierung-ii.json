@@ -1,0 +1,105 @@
+{
+    "id": "btid-mod-2-3",
+    "modulnummer": "2.3",
+    "name": "Grundlagen Sprache und Visualisierung II",
+    "semester": 2,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Prof. Dr Michael Meng",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Linguistische Grundlagen II",
+            "art": [
+                "seminar"
+            ],
+            "dozent": "Prof. Dr. Michael Meng",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Satztechnik mit InDesign",
+            "art": [
+                "seminar"
+            ],
+            "dozent": "Dipl. Tech. Red. Georg Busch",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "lv1",
+            "form": "klausur",
+            "dauer_minuten": null
+        },
+        {
+            "bezug": "lv2",
+            "form": "seminararbeit/ hausarbeit",
+            "bearbeitungszeitraum": "2 Monate"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Die sprachwissenschaftliche Teildisziplin Pragmatik",
+                "Sprechakttheorie nach J. Austin und J. Searle",
+                "Kommunikation und Kommunikationsmodelle",
+                "Textanalyse und Textproduktion: Textfunktion/ Grammatische Textstruktur/ Thematische Textstruktur/ Textsorten",
+                "Textsorten"
+
+            ]
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "Gestaltung und Design von Printproduktion",
+                "Poster/ Flyer/ Broschüren/ Zeitschriften, Bücher etc. mit Adobe InDesign"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Die Studierenden lernen die Pragmatik kennen.",
+                "Die Studierenden kennen die grundlegenden Beschreibungsebenen von Texten und können entsprechend selbst Texte verfassen.",
+                "Die Studierenden können die grundlegenden Charakteristika von Fachsprachen benennen und Eigenschaften sowohl auf Wort- als auch auf Satzebene beschreiben."
+
+            ]
+
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "Die Studierenden lernen den sinnvollen und effizienten Einsatz des Werkzeugs InDesign für die Text- und Bildkomposition.",
+                "Die Studierenden entwickeln die erforderlichen Kenntnisse des Layouts und der Typografie.",
+                "Die Studierenden  sind in der Lage, eigenständig professionelle Designs umzusetzen."
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "lv1: erflogreiche Klausur",
+            "lv2: erfolgreiche Seminararbeit/ Hausarbeit"
+        ],
+        "haeufigkeit_des_angebots": "Sommersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 28, 29 ]
+    }
+
+
+
+}

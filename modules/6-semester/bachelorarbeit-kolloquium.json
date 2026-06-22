@@ -1,0 +1,75 @@
+{
+    "id": "btid-mod-6-2",
+    "modulnummer": "-",
+    "name": "Bachelorarbeit und Kolloquium ",
+    "semester": 6,
+    "modultyp": "pflicht",
+    "credits": 15,
+    "workload_stunden": 450,
+    "verantwortlich": "alle Prüferinnen und Prüfer",
+    "modulbestandteile": [
+        {
+            "name": "Bachelorarbeit",
+            "dozent": "-",
+            "kontaktzeit": "min. 3 Konsultationen, individuelle Betreuung",
+            "selbststudiumsstunden": 450
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "schriftliche arbeit",
+            "umfang_seiten": 40,
+            "bearbeitungsdauer": "13 Wochen"
+        },
+        {
+            "bezug": "gesamtmodul",
+            "form": "´kolloquium",
+            "dauer_minuten": 40
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Bachelor-Thesis hat zum Ziel, die Befähigung der Studierenden zu eigenständiger wissenschaftlicher und praktischer Forschungsarbeit unter Beweis zu stellen und zu dokumentieren",
+                "Dies zeigt sich im Einzelnen durch: selbständiges Erkennen und Ausarbeiten einer Problemstellung/ Ermittlung und kritische Diskussion des aktuellen Forschungsstandes/ Entwicklung eines geeigneten Lösungsweges/ problemorientierte Erörterung des gewählten Lösungsweges/ kritische Bewertung der erzielten Ergebnisse und Ermittlung weiterführender Fragestellungen",
+                "Im Rahmen des Kolloquiums präsentieren und verteidigen die Studierenden Fragestellungen und Ergebnisse der Arbeit im Rahmen eines öffentlichen Fachvortrags mit anschließender Diskussion."
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden sind in der Lage, angewandt-wissenschaftliche Fragestellungen zu formulieren und argumentativ stringent zu entwickeln.",
+                "Die Studierenden erproben ihre Fähigkeit zu wissenschaftlicher Literaturrecherche und zur kritischen Auseinandersetzung mit wissenschaftlicher Forschungsliteratur",
+                "Die Studierenden vertiefen ihre Problemlösungskompetenz sowie die Kompetenz zum Transfer des Theorie- und Methodenwissens in konkrete Anwendungsbereiche",
+                "Die Studierenden stellen ihre Fähigkeit unter Beweis, erzielte Ergebnisse sowohl in Form einer wissenschaftlichen Arbeit sowie als wissenschaftliches Referat darzustellen.",
+                "Die Studierenden können die Ergebnisse ihrer Arbeit kritisch reflektieren und in einem öffentlichen Vortrag vor einem Fachpublikum vorstellen und verteidigen."
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": [
+            "Bachelorarbeit: min. 140 Credit Points",
+            "Kolloquium: bestandene Bachelorarbeit"
+        ],
+        "vergabe_kreditpunkte": [
+            "erfolgreiche bachelorarbeit",
+            "erfolgreiches kolloquium"
+        ],
+        "haeufigkeit_des_angebots": "-",
+        "dauer": "3 Monate"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 70, 71 ]
+    }
+
+
+
+}

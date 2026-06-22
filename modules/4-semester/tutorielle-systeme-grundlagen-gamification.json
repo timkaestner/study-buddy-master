@@ -1,0 +1,113 @@
+{
+    "id": "btid-mod-4-5",
+    "modulnummer": "4.5",
+    "name": "Tutorielle Systeme und Grundlagen Gamification",
+    "semester": 4,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Prof. Marco Zeugner",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Tutorielle Systeme",
+            "art": [
+                "vorlesung",
+                "übung"
+            ],
+            "dozent": "Prof. Dr. Lisa Wenige",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "",
+            "name": "Grundlagen Gamification",
+            "art": [
+                "vorlesung",
+                "übung"
+            ],
+            "dozent": "Prof. Marco Zeugner",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "lv1",
+            "form": "seminararbeit/ hausarbeit",
+            "bearbeitungszeitraum": "2 Monate"
+        },
+        {
+            "bezug": "lv2",
+            "form": "seminararbeit/ hausarbeit",
+            "bearbeitungszeitraum": "2 Monate"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Begriffsbestimmung (Intelligente) Tutorielle Systeme",
+                "Konzeptionelle Grundlagen des digitalen Lernens",
+                "Personalisierte Lernpfade",
+                "Automatische Empfehlungen für Lernressourcen",
+                "Online-Tutoring mittels Künstlicher Intelligenz"
+
+            ]
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "Einführung in das Thema Gamification und deren Einsatzmöglichkeiten in der Wissensvermittlung",
+                "kritische Auseinandersetzung und Vergleich mit weiterführenden Konzepten (u.a. Gameful Design, Serious Games) ",
+                "Spieldesign: Elemente eines Spiels, Spielmechaniken, Spielmotivation und Motivationskurven"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Die Studierenden verstehen die Grundbegriffe und Funktionen (Intelligenter) Tutorieller Systeme",
+                "Die Studierenden können die konzeptionellen Grundlagen des digitalen Lernens analysieren",
+                "Die Studierenden erwerben Kenntnisse in der Erstellung und Umsetzung von personalisierten Lernpfaden.",
+                "Die Studierenden verstehen Grundprinzipien von Leistungsmessungen in Bildungssystemen.",
+                "Die Studierenden entwickeln Fähigkeiten zur Implementierung von Empfehlungssystemen für Lernressourcen.",
+                "Die Studierenden lernen Prinzipien des Online-Tutoring mittels Künstlicher Intelligenz kennen",
+                "Die Studierenden verstehen ethische und soziale Implikationen des Einsatzes von KI in Bildungsumgebungen."
+
+            ]
+
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "Die Studierenden kennen die Elemente von digitalen Spielen.",
+                "Die Studierenden können ein einfaches Spiel entwerfen.",
+                "Die Studierenden übertragen digitale Spielkonzepte in spielfremde Kontexte.",
+                "Die Studierenden entwickeln und erproben einfache gamifizierte Anwendungen zur Wissensvermittlung."
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "lv1: erfolgreiche seminararbeit/ hausarbeit",
+            "lv2: erfolgreiche seminararbeit/ hausarbeit"
+        ],
+        "haeufigkeit_des_angebots": "Sommersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 53, 54 ]
+    }
+
+
+
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p9",
+  "section": "I",
+  "section_title": "Allgemeine Bestimmungen",
+  "paragraph": 9,
+  "citation": "§ 9",
+  "title": "Studienberatung",
+  "summary": "Beschreibt allgemeine, fachbezogene und verpflichtende Studienberatung zur Orientierung, Begleitung und Unterstützung im Studienverlauf.",
+  "subsections": [
+    {
+      "id": "p9s1",
+      "citation": "§ 9 Abs. 1",
+      "summary": "Beschreibt zentrale Beratung zu Studieneignung, Studienorientierung und Studienmöglichkeiten.",
+      "text": "Eine Beratung zu Fragen der Studieneignung und Studienorientierung sowie insbesondere die Information über Studienmöglichkeiten, Studieninhalte, Studienaufbau und Studienanforderungen erfolgt durch die Allgemeine Studienberatung der Zentralen Hochschulverwaltung im Dezernat für Akademische Angelegenheiten."
+    },
+    {
+      "id": "p9s2",
+      "citation": "§ 9 Abs. 2",
+      "summary": "Definiert Pflichtmodule als verbindliche Module, die für den Studienabschluss erfolgreich absolviert werden müssen.",
+      "text": "Eine fachbezogene und studienbegleitende Studienberatung wird von den Fachbereichen der Hochschule Merseburg angeboten. Sie unterstützt die Studierenden insbesondere in Fragen der Studiengestaltung, der Studientechniken und der Wahl von Wahlpflichtmodulen. Hierfür stehen die von den Fachbereichen beauftragten Personen zur Verfügung."
+    },
+    {
+      "id": "p9s3",
+      "citation": "§ 9 Abs. 3",
+      "summary": "Weist Informationen zu Prüfungsangelegenheiten insbesondere dem zentralen Prüfungsamt zu.",
+      "text": "In Prüfungsangelegenheiten findet eine Information der Studierenden insbesondere durch die Mitarbeiterinnen und Mitarbeiter des zentralen Prüfungsamtes des Dezernates für Akademische Angelegenheiten statt."
+    }
+  ],
+  "source": "Rahmenstudien- und -prüfungsordnung für das Bachelorstudium an der Hochschule Merseburg",
+  "page_from": 7,
+  "page_to": 7
+}

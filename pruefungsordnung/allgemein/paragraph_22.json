@@ -1,0 +1,44 @@
+{
+  "id": "p22",
+  "section": "II",
+  "section_title": "Prüfungsorganisation",
+  "paragraph": 22,
+  "citation": "§ 22",
+  "title": "Bachelorzeugnis und Bachelorurkunde",
+  "summary": "Regelt Ausstellung, Inhalt, Datum und Unterzeichnung von Bachelorzeugnis und Bachelorurkunde.",
+  "subsections": [
+    {
+      "id": "p22s1",
+      "citation": "§ 22 Abs. 1",
+      "summary": "Beschreibt die Bachelorarbeit als selbstständige wissenschaftliche Abschlussarbeit innerhalb einer festgelegten Bearbeitungszeit.",
+      "text": "Hat der Kandidat das Bachelorstudium erfolgreich abgeschlossen, erhält er über die Ergebnisse ein Zeugnis. In das Zeugnis wird aufgenommen: a) die Note der Bachelorarbeit, b) das Thema der Bachelorarbeit, c) die einzelnen Modulnoten, d) die Note der Bachelorprüfung insgesamt."
+    },
+    {
+      "id": "p22s2",
+      "citation": "§ 22 Abs. 2",
+      "summary": "Regelt Ausstellung und Inhalte des Bachelorzeugnisses nach erfolgreichem Studienabschluss.",
+      "text": "Das Zeugnis trägt das Datum des Tages, an dem die letzte Prüfungsleistung erbracht worden ist."
+    },
+    {
+      "id": "p22s3",
+      "citation": "§ 22 Abs. 3",
+      "summary": "Regelt Ausstellung und Inhalte des Bachelorzeugnisses nach erfolgreichem Studienabschluss.",
+      "text": "Gleichzeitig mit dem Zeugnis wird dem Kandidaten eine Bachelorurkunde mit dem Datum des Zeugnisses ausgehändigt. Darin wird die Verleihung des akademischen Grades gemäß § 4 beurkundet."
+    },
+    {
+      "id": "p22s4",
+      "citation": "§ 22 Abs. 4",
+      "summary": "Regelt Ausstellung und Inhalte des Bachelorzeugnisses nach erfolgreichem Studienabschluss.",
+      "text": "Dem Zeugnis und der Urkunde wird eine englischsprachige Fassung beigefügt."
+    },
+    {
+      "id": "p22s5",
+      "citation": "§ 22 Abs. 5",
+      "summary": "Regelt Ausstellung und Inhalte des Bachelorzeugnisses nach erfolgreichem Studienabschluss.",
+      "text": "Das Bachelorzeugnis und die Bachelorurkunde werden vom Dekan unterzeichnet und mit dem Siegel der Hochschule versehen."
+    }
+  ],
+  "source": "Rahmenstudien- und -prüfungsordnung für das Bachelorstudium an der Hochschule Merseburg",
+  "page_from": 19,
+  "page_to": 19
+}

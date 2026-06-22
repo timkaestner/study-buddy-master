@@ -1,0 +1,100 @@
+{
+    "id": "btid-mod-3-2",
+    "modulnummer": "3.2",
+    "name": "Online-Dokumentation",
+    "semester":3,
+    "modultyp": "pflicht",
+    "credits":5,
+    "workload_stunden":150,
+    "verantwortlich": "Dr. Thomas Meinike",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Online-Dokumentation - Grundlagen",
+            "art": [
+                "seminar",
+                "übung"
+            ],
+            "dozent": "Prof. Dr. Michael Meng",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Online-Dokumentation - Planung & Umsetzung",
+            "art": [
+                "seminar",
+                "übung"
+            ],
+
+            "dozent": "Dr. Thomas Meinike",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "seminararbeit/ hausarbeit mit referat",
+            "bearbeitungszeitraum": "semesterbegleitend"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Aufbau der Inhalte und der Informationsarchitektur",
+                "Topic-orientierte Strukturen und topic-orientiertes Schreiben",
+                "Visuelle Gestaltung von Online-Hilfen, Einsatz von Screenshots",
+                "Navigationshilfen und Linkkonzepte"
+
+            ]
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "Onlinehilfe-Formate, speziell HTML Help (CHM) und WebHelp",
+                "E-Book-Formate, speziell EPUB",
+                "Einsatz von E-Book-Lesegeräten und Lesesoftware (Apps)",
+                "Prototypische Produktion von Onlinehilfen und E-Books auf HTML-Basis mit geeigneter Software"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Die Studierenden kennen die wesentlichen Aspekte der inhaltlichen und sprachlichen Umsetzung von OnlineDokumenten."
+
+            ]
+
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                " Die Studierenden sind mit den Aspekten der technologischen Umsetzung vertraut und in der Lage, die genannten Dokumentenformate zu produzieren."
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "erfolgreiche seminararbeit/ hausarbeit",
+            "erfolgreiches referat"
+        ],
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 37, 38 ]
+    }
+
+
+
+}

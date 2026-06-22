@@ -1,0 +1,152 @@
+{
+    "id": "btid-mod-5-6",
+    "modulnummer": "5.6",
+    "name": "Wahlpflichtfach Technik oder Informatik",
+    "semester": 5,
+    "modultyp": "wahlpflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Prof. Dipl. Des. Marco Zeugner",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "wlv1",
+            "name": "Mobile Computing",
+            "art": [
+                "vorlesung",
+                "übung"
+            ],
+            "dozent": "Dipl.-Ing. Ulrich Borchert",
+            "sws": 4,
+            "kontaktstunden": 60,
+            "selbststudiumsstunden": 90
+        },
+        {
+            "lv_id": "wlv2",
+            "name": "Pädagogische Psychologie",
+            "art": [
+                "vorlesung"
+            ],
+            "dozent": "Dipl.-Ing. Ulrich Borchert",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 120
+        },
+        {
+            "lv_id": "wlv3",
+            "name": "Softwaretechnik",
+            "art": [
+                "vorlesung",
+                "praktikum"
+            ],
+            "dozent": "Prof. Dr. rer. pol. Ronny Weinkauf",
+            "sws": 4,
+            "kontaktstunden": 60,
+            "selbststudiumsstunden": 90
+        },
+        {
+            "lv_id": "wlv4",
+            "name": "Einführung in die Verfahrenstechnik",
+            "art": [
+                "vorlesung",
+                "übung",
+                "praktikum"
+            ],
+            "dozent": "Prof. Dr.-Ing. Thomas Martin",
+            "sws": 5,
+            "kontaktstunden": 75,
+            "selbststudiumsstunden": 75
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "jede wlv",
+            "form": "gemäß wahlpflichtfach"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "wlv1",
+            "inhalte": [
+                "Grundkenntnisse DECT",
+                "IrDA Aufbau und Protokolle",
+                "Bluetooth Aufbau Protokolle",
+                "Datenübertragung im Mobilfunkbereich (GSM, GPRS, UMTS, HSDPA, LTE) 5.Generation",
+                "TFTS, ASMM Zugangsnetze für Flugzeuge -NFC, RFID",
+                "Grundlagen Satellitenpositionierungssysteme"
+
+            ]
+        },
+        {
+            "bezug": "wlv2",
+            "inhalte": [
+                "psychologische Grundlagen und Gestaltung lebenslangen Lernens",
+                "Kognitive Lernen und Lernstrategien",
+                "Selbstgesteuertes Lernen",
+                "Lernen in Gruppen, soziales und kooperatives Lernen",
+                "Lernen mit neuen Medien",
+                "Lern- und Leistungsmotivation",
+                "Lernstörungen"
+
+            ]
+        },
+        {
+            "bezug": "wlv3",
+            "inhalte": [
+                "Anforderungen an das Software Engineering",
+                "Management von Softwareprojekten",
+                "Vorgehensmodelle -Anforderungsanalyse mit UML",
+                "Entwurf mit UML",
+                "Benutzerschnittstellen und –dokumentation",
+                "Validierung und Verifikation",
+                "Qualitätsmanagement"
+
+            ]
+        },
+        {
+            "bezug": "wlv4",
+            "inhalte": [
+                "Vorlesung und Übung (In der Übung werden die Themen der Vorlesung durch Lösen von Beispielaufgaben vertieft.)",
+                "Einführung in das Fachgebiet Verfahrenstechnik",
+                "Grundelemente einer verfahrenstechnischen Anlage",
+                "Übersicht über verfahrenstechnische Grundoperationen",
+                "Zeichnerische Darstellung von Verfahren durch Fließbilder mit seinen Elementen (Grundfließbild, Verfahrensfließbild)",
+                "Analyse ausgewählter großtechnischer Prozesse",
+                "Einfache Masse-, Stoff- und Energiebilanzen",
+                "Zusammensetzungsmaße von Mehrkomponentensystemen (Anteil, Beladung, etc.)",
+                "Stoff- und Energiebilanzen von Mehrkomponentensystemen",
+                "Stoff- und Energiebilanzen von Anlagen mit mehreren Elementen",
+                "Bilanzierung mit Hilfe von Matrizenrechnungen Praktikum",
+                "Die Studenten lernen typische Laborarbeiten kennen. Dabei stehen Methoden zur Bestimmung von Stoffdaten oder Konzentrationen immer mit dem Bezug zur LV im Vordergrund. Um den unterschiedlichen Voraussetzungen der Studenten Rechnung zu tragen wird ein Teil des Praktikums als Auswahl angeboten. - Auswertung der praktischen Arbeiten am Computer, insbesondere der Umgang mit MS Excel."
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden belegen Wahllehrveranstaltungen aus dem Angebot des Fachbereich INW mit mindestens 5 Credits",
+                "Die Studierenden erarbeiten, festigen und vertiefen fachliche Grundlagen aus den Bereichen Naturwissenschaften, Technik oder Informatik",
+                "Die Studierenden wählen eigenverantwortlich eine Lehrveranstaltung in den Bereichen, mit denen sie im Rahmen ihres Erststudiums keinen oder kaum Kontakt hatten",
+                "Das Modul trägt dazu bei, Unterschiede in den Wissensvoraussetzungen der Studenten auszugleichen."
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "siehe Modulbeschreibung des WPF",
+        "vergabe_kreditpunkte": [
+            "erfolgreicher abschluss der WPF-Einzelprüfung"
+        ],
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 66, 67 ]
+    }
+
+
+
+}

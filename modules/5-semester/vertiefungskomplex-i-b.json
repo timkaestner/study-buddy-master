@@ -1,0 +1,76 @@
+{
+    "id": "btid-mod-5-2",
+    "modulnummer": "5.2",
+    "name": "B: Projekt E-Learning",
+    "semester": 5,
+    "modultyp": "wahlpflicht",
+    "credits": 10,
+    "workload_stunden": 300,
+    "verantwortlich": "Prof. Dr. Lisa Wenige",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "gesamtmodul",
+            "name": "Projekt E-Learning",
+            "art": [
+                "projekt"
+            ],
+            "dozent": "Prof. Dr. Lisa Wenige",
+            "sws": 8,
+            "kontaktstunden": 120,
+            "selbststudiumsstunden": 180
+        }
+
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "projektarbeit",
+            "bearbeitungszeitraum": "semesterbegleitend"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Rolle und Bedeutung von E-Learning-Anwendungen in der Wissensgesellschaft und im beruflichen Kontext",
+                "Lerntheorien: Behaviorismus, Kognitivismus, Konstruktivismus, Konnektivismus",
+                "Didaktik und Instruktionsdesign",
+                "Aktuelle Entwicklungen im Bereich E-Learning",
+                "Realisierung eines eigenen E-Learning-Angebotes",
+                "Konzeption & Projektplanung",
+                "Didaktische Gestaltung",
+                "Technische Umsetzung",
+                "Qualitätskontrolle"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden kennen Lerntheorien und Methoden des Instruktionsdesigns",
+                "Die Studierenden werden befähigt, ein Themengebiet zu erschließen und didaktisch aufzubereiten.",
+                "Die Studierenden können ein E-Learning-Projekt selbständig planen.",
+                "Die Studierenden sind in der Lage, einen E-Learning-Kurs umzusetzen und zu evaluieren."
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "erfolgreiche projektarbeit"
+        ],
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 60 ]
+    }
+
+
+
+}

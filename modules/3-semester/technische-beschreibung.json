@@ -1,0 +1,106 @@
+{
+    "id": "btid-mod-3-1",
+    "modulnummer": "3.1",
+    "name": "Technische Beschreibung",
+    "semester":3,
+    "modultyp": "pflicht",
+    "credits":5,
+    "workload_stunden":150,
+    "verantwortlich": "Prof. Dr.Michael Meng",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Technische Beschreibung",
+            "art": [
+                "seminar"
+            ],
+            "dozent": "Prof. Dr. Michael Meng",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Professionelle Dokumentation mit Adobe Frame Maker",
+            "art": [
+                "übung"
+            ],
+            "dozent": "N. N.",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "lv1",
+            "form": "seminararbeit/ hausarbeit",
+            "bearbeitungszeitraum": "2 Monate"
+        },
+        {
+            "bezug": "lv2",
+            "form": "seminararbeit/ hausarbeit",
+            "bearbeitungszeitraum": "2 Monate"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Textverstehen und Textverständlichkeit",
+                "sachbezogenes Schreiben: Sachtexte, Zielgruppenanalyse, technische Beschreibung (Gerätebeschreibung, Funktionsumfang), Produktinformation"
+            ]
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "Umgang mit Adobe FrameMaker",
+                "Kennenlernen der Benutzeroberfläche",
+                "Erstellung und Formatierung von Dokumenten",
+                "Einsatz von Grafiken und Bildern in relevanten Formaten"
+            ]
+        }
+    ]
+
+    ,
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Die Studierenden können die Begrifflichkeiten Textverstehen und Textverständlichkeit in einen wissenschaftlichen Kontext einordnen und Kriterien auf eigene Texte übertragen.",
+                "Die Studierenden können eine Zielgruppenanalyse durchführen",
+                "Die Studierenden kennen die inhaltlich-logischen und sprachlichen Besonderheiten der kommunikativ-funktionalen Einheit Beschreiben",
+                "Die Studierenden setzen sich aktiv mit den Beschreibungsarten Technische Beschreibung mit ihren Komponenten Gerätebeschreibung, Funktionsbeschreibung und Produktinformation sowie deren Strukturmustern auseinander",
+                "Die Studierenden setzen ihre Kenntnisse an praktischen Beispielen um."
+
+            ]
+
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "Die Studierenden verfügen über anwendungsbereite Kenntnisse zur Verwendung von Adobe FrameMaker",
+                "Die Studierenden sind in der Lage, mittels FrameMaker strukturierte Dokumente zu erstellen",
+                "Die Studierenden kennen die in FrameMaker integrierten Funktionen."
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "lv1: erflogreiche Seminararbeit/ Hausarbeit",
+            "lv2: erflogreiche Seminararbeit/ Hausarbeit"
+        ],
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 35, 36 ]
+    }
+
+
+
+}

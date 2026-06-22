@@ -1,0 +1,44 @@
+{
+  "id": "p12",
+  "section": "II",
+  "section_title": "Prüfungsorganisation",
+  "paragraph": 12,
+  "citation": "§ 12",
+  "title": "Prüferinnen und Prüfer, Beisitzerinnen und Beisitzer",
+  "summary": "Regelt Bestellung, Unabhängigkeit und Aufgaben von Prüferinnen, Prüfern, Beisitzerinnen und Beisitzern.",
+  "subsections": [
+    {
+      "id": "p12s1",
+      "citation": "§ 12 Abs. 1",
+      "summary": "Regelt die Bestellung von Prüferinnen, Prüfern und Beisitzenden durch den Prüfungsausschuss.",
+      "text": "Der Prüfungsausschuss bestellt die Prüfer und Beisitzer. Zur Abnahme von Prüfungen ist jede nach § 12 Abs. 4 HSG LSA prüfungsberechtigte Person befugt."
+    },
+    {
+      "id": "p12s2",
+      "citation": "§ 12 Abs. 2",
+      "summary": "Stellt die Unabhängigkeit von Prüferinnen, Prüfern und Beisitzenden in der Prüfungstätigkeit klar.",
+      "text": "Prüfer sowie Beisitzer sind in ihrer Prüfungstätigkeit unabhängig."
+    },
+    {
+      "id": "p12s3",
+      "citation": "§ 12 Abs. 3",
+      "summary": "Regelt Mehrprüferbewertung, mündliche Prüfungen mit Beisitz und Protokollpflicht.",
+      "text": "Prüfungsleistungen werden in der Regel von mindestens zwei Prüfern bewertet. Mündliche Prüfungen können gemäß § 12 Abs. 5 HSG LSA abweichend davon auch von einem Prüfer in Gegenwart eines sachkundigen Beisitzers abgenommen werden. Über die mündliche Prüfungsleistung ist ein Protokoll zu führen."
+    },
+    {
+      "id": "p12s4",
+      "citation": "§ 12 Abs. 4",
+      "summary": "Sichert die rechtzeitige Bekanntgabe von Prüfenden und Prüfungsterminen.",
+      "text": "Der Vorsitzende des Prüfungsausschusses sorgt dafür, dass dem Kandidaten die Namen der Prüfer und die Termine der Prüfungen rechtzeitig bekannt gegeben werden."
+    },
+    {
+      "id": "p12s5",
+      "citation": "§ 12 Abs. 5",
+      "summary": "Überträgt die Verschwiegenheitspflichten des Prüfungsausschusses entsprechend auf Prüferinnen, Prüfer und Beisitzende.",
+      "text": "Für Prüfer und Beisitzer gilt § 11 Abs. 10 entsprechend."
+    }
+  ],
+  "source": "Rahmenstudien- und -prüfungsordnung für das Bachelorstudium an der Hochschule Merseburg",
+  "page_from": 9,
+  "page_to": 9
+}

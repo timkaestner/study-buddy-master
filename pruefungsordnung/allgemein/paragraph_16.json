@@ -1,0 +1,98 @@
+{
+  "id": "p16",
+  "section": "II",
+  "section_title": "Prüfungsorganisation",
+  "paragraph": 16,
+  "citation": "§ 16",
+  "title": "Arten von Prüfungsleistungen",
+  "summary": "Definiert die zulässigen Arten von Prüfungsleistungen und deren jeweilige Anforderungen.",
+  "subsections": [
+    {
+      "id": "p16s1",
+      "citation": "§ 16 Abs. 1",
+      "summary": "Listet die zulässigen Prüfungsarten auf, darunter Klausur, mündliche Prüfung, Referat, Hausarbeit, Projektarbeit, Entwurf und Praxisbericht.",
+      "text": "Folgende Arten von Prüfungsleistungen sind möglich: 1. Schriftliche Prüfung (Klausur) (Absatz 2), 2. Mündliche Prüfung (Absatz 3), 3. Wissenschaftliches Projekt (Absatz 4), 4. Seminararbeit/Hausarbeit (Absatz 5), 5. Referat (Absatz 6), 6. Experimentelle Arbeit (Absatz 7), 7. Entwurf (Absatz 8), 8. Testat (Absatz 9), 9. Künstlerische Belegarbeiten (Absatz 10), 10. Künstlerische und kulturpädagogische Projektarbeiten (Absatz 11), 11. Kolloquium (Absatz 12). 12. Bericht zur Praxisphase (Praktikumsbericht) (Absatz 13) 13. Bachelorarbeit (Absatz 14)"
+    },
+    {
+      "id": "p16s2",
+      "citation": "§ 16 Abs. 2",
+      "summary": "Beschreibt die Klausur als beaufsichtigte schriftliche Prüfung mit begrenzter Zeit und begrenzten Hilfsmitteln.",
+      "text": "In einer schriftlichen Prüfung (Klausur) sollen die Studierenden nachweisen, dass sie in begrenzter Zeit mit begrenzten Hilfsmitteln und unter Aufsicht mit den geläufigen Methoden des Fachgebietes ein Problem erkennen und Wege zu einer Lösung finden können. Die Bearbeitungszeit einer Klausur beträgt mindestens 60 jedoch nicht mehr als 240 Minuten. Klausuren können im Antwort-Wahl-Verfahren (Multiple Choice Klausur) erfolgen. Es gelten die Bestimmungen unter § 17. Eine Klausur kann auch elektronisch durchgeführt werden."
+    },
+    {
+      "id": "p16s3",
+      "citation": "§ 16 Abs. 3",
+      "summary": "Beschreibt die mündliche Prüfung als fachliches Prüfungsgespräch mit Protokollierung.",
+      "text": "Durch mündliche Prüfungen soll der oder die Studierende nachweisen, dass er oder sie die Zusammenhänge des Prüfungsgebietes erkennt und spezielle Fragestellungen in diese Zusammenhänge einzuordnen vermag. Im Rahmen der mündlichen Prüfung können auch A ufgaben in angemessenem Umfang zur schriftlichen Behandlung gestellt werden, wenn dadurch der mündliche Charakter der Prüfung nicht aufgehoben wird. Die mündliche Prüfung findet vor mehreren Prüfenden (Kollegialprüfungen) oder vor einem oder einer Prüfenden und einem oder einer sachkundigen Beisitzenden als Einzeloder Gruppenprüfung statt, wobei bis zu 3 Studierende eine Gruppe bilden können. Die Dauer der Prüfung beträgt für jeden Studierenden in der Regel mindestens 15 Minuten, jedoch nicht mehr als 45 Minuten. Die wesentlichen Gegenstände der Prüfung und die Bewertung der Prüfungsleistung sind in einem Protokoll festzuhalten. Es ist von den Prüfenden und den Beisitzenden zu unterschreiben. Das Ergebnis der Prüfung ist dem oder der Studierenden im Anschluss an di e mündliche Prüfung bekannt zu geben. Eine mündliche Prüfung kann auch elektronisch durchgeführt werden."
+    },
+    {
+      "id": "p16s4",
+      "citation": "§ 16 Abs. 4",
+      "summary": "Beschreibt Projektarbeit als Nachweis selbstständiger wissenschaftlicher Arbeit und Teamfähigkeit.",
+      "text": "Durch Mitarbeit in einem wissenschaftlichen Projekt sollen Studierende nachweisen, dass sie zur selbstständigen wissenschaftlichen Arbeit und zur Teamarbeit befähigt sind. Diese Prüfungsleistung kann aus gemischten Anteilen entsprechend der Modulbeschreibung bestehen."
+    },
+    {
+      "id": "p16s5",
+      "citation": "§ 16 Abs. 5",
+      "summary": "Beschreibt die Hausarbeit als schriftliche wissenschaftliche Bearbeitung eines festgelegten Themas.",
+      "text": "Eine Seminararbeit/Hausarbeit erfordert eine experimentelle, empirische oder theoretische Bearbeitung einer Aufgabenstellung aus dem Fachgebiet. Die Aufgabe ist so zu stellen, dass sie innerhalb von vier bis zwölf Wochen bearbeitet werden kann."
+    },
+    {
+      "id": "p16s6",
+      "citation": "§ 16 Abs. 6",
+      "summary": "Beschreibt das Referat als mündliche Darstellung eines fachlichen Themas mit möglicher schriftlicher Ausarbeitung.",
+      "text": "Ein Referat umfasst grundsätzlich eine eigenständige und vertiefte Auseinandersetzung mit einem Problem aus dem Arbeitszusammenhang der Lehrveranstaltung unter Einbeziehung und Auswertung einschlägiger Literatur sowie die Darstellung und die Vermittlung der Ergebnisse im mündlichen Vortrag sowie in der anschließenden Diskussion."
+    },
+    {
+      "id": "p16s7",
+      "citation": "§ 16 Abs. 7",
+      "summary": "Beschreibt die experimentelle Arbeit einschließlich Vorbereitung, Durchführung, Auswertung und Dokumentation von Experimenten oder Implementierungen.",
+      "text": "Eine experimentelle Arbeit umfasst insbesondere: • die theoretische Vorbereitung von Experimenten und/oder einer Software-Implementierung • den Aufbau und die Durchführung von Experimenten und/oder einer Software-Implementierung • die schriftliche Darstellung der Arbeitsschritte, des Versuchsablaufs und der Ergebnisse der Experimente sowie deren kritische Würdigung • in geeigneten Fällen die mündliche Darstellung der Ergebnisse in Form eines Vortrages mit Diskussion."
+    },
+    {
+      "id": "p16s8",
+      "citation": "§ 16 Abs. 8",
+      "summary": "Beschreibt den Entwurf als gestalterische oder konzeptionelle Prüfungsleistung mit dokumentiertem Ergebnis.",
+      "text": "Ein Entwurf umfasst die Bearbeitung einer fachspezifischen oder fächerübergreifenden Aufgabenstellung in konzeptioneller und konstruktiver Hinsicht unter besonderer Berücksichtigung planerischer Aspekte sowie die Darstellung und Erläuterung der erarbeiteten Lösungen in einer für die berufliche Tätigkeit üblichen Weise."
+    },
+    {
+      "id": "p16s9",
+      "citation": "§ 16 Abs. 9",
+      "summary": "Beschreibt Testate als kurze Prüfungsformen für abgeschlossene Kompetenzbereiche.",
+      "text": "Testate überprüfen in sich abgeschlossene, kurzzyklische Kompetenzbereiche. Sie können in Form der Prüfungsarten nach Absatz 1, Anstrich 1 - 7 durchgeführt werden. Art und Umfang ist durch die Prüfenden über die Modulbeschreibung beziehungsweise bis zur vierten Woche nach Lehrveranstaltungsbeginn bekanntzugeben."
+    },
+    {
+      "id": "p16s10",
+      "citation": "§ 16 Abs. 10",
+      "summary": "Beschreibt künstlerische Belegarbeiten als Prüfungsleistungen in künstlerischen Lehrgebieten und Medienbereichen.",
+      "text": "Künstlerische Belegarbeiten sind alle künstlerischen Leistungen in den künstlerischen Lehrgebieten und Bereichen bildenden Kunst und Ausstellungsmedien, Fotografie, Musik und auditive Medien, szenische Künste, audiovisuelle Medien sowie alle Formen analoger und digitaler künstlerischer Werke."
+    },
+    {
+      "id": "p16s11",
+      "citation": "§ 16 Abs. 11",
+      "summary": "Beschreibt die Projektarbeit als selbstständige Bearbeitung einer praxis- oder forschungsbezogenen Aufgabe.",
+      "text": "Künstlerische und kulturpädagogische Projektarbeiten umfassen ein selbstständig geplantes und durchgeführtes Künstlerisches und/oder kulturpädagogisches Projekt, zu dem ein umfassende Konzeption erstellt wird und die in künstlerischer Form präsentiert wird (in den Lehrgebieten: s. Abs. 10)"
+    },
+    {
+      "id": "p16s12",
+      "citation": "§ 16 Abs. 12",
+      "summary": "Beschreibt die Projektarbeit als selbstständige Bearbeitung einer praxis- oder forschungsbezogenen Aufgabe.",
+      "text": "Im Kolloquium steht die Darstellung und Verteidigung von in der Projektarbeit oder der Bachelorarbeit erlangtem Wissen im Vordergrund. Der Charakter eines Kolloquiums besteht in der theoretischen und praktischen Reflexion eines Themas auf hohem professionellem Niveau auf der Basis vorliegender Ausarbeitungen."
+    },
+    {
+      "id": "p16s13",
+      "citation": "§ 16 Abs. 13",
+      "summary": "Beschreibt den Praktikumsbericht als reflektierte Dokumentation praktischer Studienleistungen.",
+      "text": "Bericht zur Praxisphase: Über die Praxisphase ist von dem oder der Studierenden ein Praktikumsbericht anzufertigen. In diesem Bericht hat der oder die Studierende Gelegenheit, die zur Lösung der gegebenen Problemstellung herausgearbeitete Herangehensweise sowie zum Einsatz gekommene Methoden darzustellen und über die erzielte Lösung zu informieren."
+    },
+    {
+      "id": "p16s14",
+      "citation": "§ 16 Abs. 14",
+      "summary": "Beschreibt die Bachelorarbeit als selbstständige wissenschaftliche Abschlussarbeit innerhalb einer festgelegten Bearbeitungszeit.",
+      "text": "Die Bachelorarbeit ist eine selbstständige wissenschaftliche Arbeit, die in schriftlicher Form einzureichen und mündlich zu verteidigen ist (Kolloquium). Dabei soll der oder die Studierende zeigen, dass er oder sie innerhalb einer vorgegebenen Frist eine Aufgabenstellung aus dem Fachgebiet selbstständig mit wissenschaftlichen Methoden bearbeiten kann. Näheres hierzu regeln die studiengangspezifischen Bestimmungen des jeweiligen Studienganges."
+    }
+  ],
+  "source": "Rahmenstudien- und -prüfungsordnung für das Bachelorstudium an der Hochschule Merseburg",
+  "page_from": 13,
+  "page_to": 14
+}

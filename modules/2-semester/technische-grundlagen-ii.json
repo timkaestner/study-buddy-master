@@ -1,0 +1,86 @@
+{
+    "id": "btid-mod-2-6",
+    "modulnummer": "2.6",
+    "name": "Technische Grundlagen II",
+    "semester":2,
+    "modultyp": "pflicht",
+    "credits":5,
+    "workload_stunden":150,
+    "verantwortlich": "Prof. Dr. Lisa Wenige",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Technische Grundlagen II",
+            "art": [
+                "vorlesung"
+            ],
+            "dozent": "Prof. Dr. Lisa Wenige",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Technische Grundlagen II",
+            "art": [
+                "seminar",
+                "übung"
+            ],
+            "dozent": "Prof. Dr. Lisa Wenige",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "klausur",
+            "dauer_minuten":120
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Datenbankmanagementsysteme: Aufbau und Funktionsweise, Gestaltung relationaler Datenbankschemata, Datenbankentwurf und -abfrage mit SQL, Erweiterte Funktionalitäten: Gespeicherte Prozeduren, Trigger, ACID, Rechtemanagement",
+                "OLAP und Data Warehouses",
+                "NoSQL-Datenbanken",
+                "Wissensgraphen: Entstehung und Grundkonzepte des Semantic Web, Ausgewählte Vokabulare und deren Datensammlungen, Abfragen mittels SPARQL"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden kennen die Vorteile einer konsistenten Datenhaltung.",
+                "Die Studierenden können eigene Datenbanken im Relationalen Modell entwerfen.",
+                "Die Studierenden sind in der Lage, Datenbanken mit SQL zu erstellen und abzufragen.",
+                "Die Studierenden verstehen erweiterte Datenbankfunktionalitäten und können diese anwenden.",
+                "Die Studierenden kennen die Grundkonzepte des Data Warehousing",
+                "Die Studierenden kennen Eigenschaften ausgewählter NoSQL-Datenbanken.",
+                "Die Studierenden besitzen Grundkenntnisse über Wissensgraphen.",
+                "Die Studierenden sind in der Lage, Wissensgraphen mittels SPARQL abzufragen"
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "erflogreiche Klausur"
+        ],
+        "haeufigkeit_des_angebots": "sommersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 33 ]
+    }
+
+
+
+}

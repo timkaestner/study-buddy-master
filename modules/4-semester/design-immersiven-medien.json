@@ -1,0 +1,84 @@
+{
+    "id": "btid-mod-4-4",
+    "modulnummer": "4.4",
+    "name": "Design immersiven Medien",
+    "semester": 4,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Prof. Marco Zeugner",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Design immersiven Medien",
+            "art": [
+                "vorlesung"
+            ],
+            "dozent": "Prof. Marco Zeugner",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Design immersiven Medien",
+            "art": [
+                "übung"
+            ],
+            "dozent": "Prof. Marco Zeugner",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "seminararbeit/ hausarbeit",
+            "bearbeitungszeitraum": "2 Monate"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Konzeption und Umsetzung von immersiven Augmented Reality (AR)-, Mixed Reality (MR)- oder Virtual Reality (VR)-Anwendungen im Kontext der technischen Kommunikation",
+                "Grundlagen, Geschichte und Potentiale der AR, MR und VR",
+                "Programme und Technologien zur technischen Entwicklung immersiver Anwendungen",
+                "Vermittlung komplexer Informationen mit Hilfe immersiver Medien",
+                "Vermittlung von Workflows zur Erstellung immersiver Medien (vor allem 3D-Modeling)",
+                "Einsatz von 3D- bzw. Echtzeit-Engines"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden können interaktive, immersive Anwendungen planen und umsetzen",
+                "Die Studierenden erlernen die Grundlagen und die Geschichte der Augmented-, Mixed- und Virtual Reality (XR).",
+                "Die Studierenden kennen die Potentiale von virtuellen Räumen in der Wissensvermittlung.",
+                "Die Studierenden besitzen Grundlagenkenntnisse des 3D-Modelings: Modelliermethoden/ Materialien, Shader, Texturen/ Modellierung von 3D-Objekten für XR-Anwendungen. ",
+                "Die Studierenden erproben den Einsatz von 3D- bzw. Echtzeit-Engines zur Entwicklung eigener AR- und VRAnwendungen. "
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "erfolgreiche seminararbeit/ hausarbeit"
+        ],
+        "haeufigkeit_des_angebots": "Sommersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 52 ]
+    }
+
+
+
+}

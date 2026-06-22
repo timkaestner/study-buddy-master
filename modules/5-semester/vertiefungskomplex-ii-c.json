@@ -1,0 +1,80 @@
+{
+    "id": "btid-mod-5-3",
+    "modulnummer": "5.3",
+    "name": "C: Projekt Mobile Dokumentation & Intelligente Information",
+    "semester": 5,
+    "modultyp": "wahlpflicht",
+    "credits": 10,
+    "workload_stunden": 300,
+    "verantwortlich": "Dr. Thomas Meinike",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "gesamtmodul",
+            "name": "Projekt Mobile Dokumentation & Intelligente Information",
+            "art": [
+                "projekt"
+            ],
+            "dozent": "Dr. Thomas Meinike",
+            "sws": 8,
+            "kontaktstunden": 120,
+            "selbststudiumsstunden": 180
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "projektarbeit",
+            "bearbeitungszeitraum": "semesterbegleitend"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Mobile Dokumentationen als Ergänzung oder Alternative zu gedruckten Dokumentationen",
+                "E-Books und Onlinehilfen vs. Apps auf Smartphones und Tablets",
+                "Umsetzung von Web-basierten Apps mit Techniken wie HTML5, CSS3 und JavaScript-Frameworks",
+                "Interaktionen des Nutzers mit den Anwendungen",
+                "Neuere Metadaten-Standards wie Web App Manifest (W3C) und iiRDS (tekom)",
+                "Ansätze zur (teil-)automatisierten Produktion von mobilen Inhalten mittels XML-Technologien",
+                "Data Science Grundlagen",
+                "Natural Language Processing",
+                "Datenvisualisierung",
+                "Informations- und Wissensmanagement",
+                "Recommender Systeme"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden kennen die technologischen Grundlagen zur Entwicklung von mobilen Anwendungen.",
+                "Die Studierenden können statische bzw. dynamische Inhalte wie Texte, Bilder und Animationen für Online-Medien und mobile Anwendungen planen, entwerfen und umsetzen",
+                "Die Studierenden konzipieren und entwickeln je nach Vorkenntnissen, insbesondere im Bereich Web-Entwicklung, als abschließende Projekte mobile Web-Anwendungen in Teamarbeit.",
+                "Die Studierenden kennen die Grundlagen des Data Science",
+                "Die Studierenden können Aufgaben im Themenspektrum Natural Language Processing bewältigen.",
+                "Die Studierenden sind in der Lage, Daten nach gängigen Standards zu visualisieren.",
+                "Die Studierenden können einen Überblick über das Themenfeld Informations- und Wissensmanagement geben."
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "erfolgreiche projektarbeit"
+        ],
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 61, 62 ]
+    }
+
+
+
+}

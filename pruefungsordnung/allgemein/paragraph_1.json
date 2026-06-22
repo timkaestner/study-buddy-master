@@ -1,0 +1,26 @@
+{
+    "id": "p1",
+    "section": "I",
+    "section_title": "Allgemeine Bestimmungen",
+    "paragraph": 1,
+    "citation": "§ 1",
+    "title": "Geltungsbereich der Rahmenstudien- und -prüfungsordnung",
+    "summary": "Die Rahmenstudien- und -prüfungsordnung gilt für Bachelorstudiengänge der Hochschule Merseburg und regelt deren grundlegende Strukturen.",
+    "subsections": [
+      {
+        "id": "p1a1",
+        "citation": "§ 1 Abs. 1",
+        "summary": "Die Ordnung gilt für das Bachelorstudium an der Hochschule Merseburg und regelt dessen grundlegende Strukturen.",
+        "text": "Die Bestimmungen der Rahmenstudien- und -prüfungsordnung gelten für das Bachelorstudium an der Hochschule Merseburg. Sie regelt die grundlegenden Strukturen des Bachelorstudiums."
+      },
+      {
+        "id": "p1a2",
+        "citation": "§ 1 Abs. 2",
+        "summary": "Studiengangspezifische Bestimmungen konkretisieren Ziele, Inhalte, Zugangsvoraussetzungen, Anforderungen und Studienverlauf und können unter bestimmten Voraussetzungen von der Rahmenordnung abweichen.",
+        "text": "Die jeweiligen studiengangspezifischen Bestimmungen definieren Ziele und Inhalte, Zugangsvoraussetzungen, die curricular festgelegten Anforderungen sowie den Studienverlauf. Dabei können aus sachlichen Gründen durch die Fachbereiche abweichende Regelungen zur Rahmenstudien- und -prüfungsordnung getroffen werden, soweit diese Ordnung die Fachbereiche dazu ermächtigt."
+      }
+    ],
+  "source": "Rahmenstudien- und -prüfungsordnung für das Bachelorstudium an der Hochschule Merseburg",
+  "page_from": 3,
+  "page_to": 3
+  }

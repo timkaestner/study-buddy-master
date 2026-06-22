@@ -1,0 +1,105 @@
+{
+    "id": "btid-mod-5-1",
+    "modulnummer": "5.1",
+    "name": "A: Projekt Infografik & Infobroschüre",
+    "semester": 5,
+    "modultyp": "wahlpflicht",
+    "credits": 10,
+    "workload_stunden": 300,
+    "verantwortlich": "Prof. Kerstin Alexander",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Infografik",
+            "art": [
+                "vorlesung",
+                "übung"
+            ],
+            "dozent": "Prof. Kerstin Alexander",
+            "sws": 4,
+            "kontaktstunden": 60,
+            "selbststudiumsstunden": 90
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Infobroschüre",
+            "art": [
+                "vorlesung",
+                "übung"
+            ],
+            "dozent": "N. N.",
+            "sws": 4,
+            "kontaktstunden": 60,
+            "selbststudiumsstunden": 90
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "projektarbeit",
+            "bearbeitungszeitraum": "2 Monate"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Visuelle Gestaltung einer Informationsbroschüre über technologische Verfahren / technische Prozesse / technische Produkte / visuelle Kampagnen",
+                "Gestaltung von Infografik: Piktogramm / Logogramm / Icon, Grafische Darstellung von Aufbau / Prozess / Bedienfolge, Überblick über Druckverfahren und Grundkenntnisse der Druckvorstufe",
+                "Gestaltung von Typografie und Layout für Broschüre / lerneffektiven Text / visuelle Kampagne: Typografie für technische Beschreibungen, Typografie für Lehr- und Lerntexte, Gestalterische Berücksichtigung eines bestehenden Corporate Designs"
+
+            ]
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "(Teil-)Textsorten einer Informationsbroschüre über technologische Verfahren / technische Prozesse / technische Produkte / visuelle Kampagnen",
+                "Ziele und Zielgruppen",
+                "sprachliche Charakteristika von Informationsbroschüren",
+                " Verfassen von Informationsbroschüren: Recherche, Konzeption, Texterstellung, Redigieren"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Die Studierenden lernen den Aufbau einer Broschüre kennen",
+                "Die Studierenden lernen Layout Konzepte zu erstellen und umzusetzen",
+                "Die Studierenden entwickeln Abbildungskonzepte und wenden diese an.",
+                "Die Studierenden gestalten Infografiken",
+                "Die Studierenden setzen und layouten das Informationsprodukt. ",
+                "Die Studierenden bereiten die Daten des Informationsprodukts für die Druckvorstufe vor"
+
+            ]
+
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "Die Studierenden kennen die inhaltlichen Bestandteile von Informationsbroschüren unter Berücksichtigung der jeweiligen Zielgruppe.",
+                "Die Studierenden können eine Informationsbroschüre in Abhängigkeit bestimmter Ziele konzipieren. ",
+                "Die Studierenden können die verschiedenen Bestandteile einer Informationsbroschüre verfassen.",
+                "Die Studierenden können Texte adäquat redigieren und in einen publikationsfähigen Zustand bringen"
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "erfolgreiche Projektarbeit"
+        ],
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 58, 59 ]
+    }
+
+
+
+}

@@ -1,0 +1,50 @@
+{
+  "id": "p17",
+  "section": "II",
+  "section_title": "Prüfungsorganisation",
+  "paragraph": 17,
+  "citation": "§ 17",
+  "title": "Prüfungsleistungen im Antwort-Wahl-Verfahren",
+  "summary": "Regelt schriftliche Prüfungsleistungen im Antwort-Wahl-Verfahren, insbesondere Aufgabenstellung, Bewertung und Bestehensgrenzen.",
+  "subsections": [
+    {
+      "id": "p17s1",
+      "citation": "§ 17 Abs. 1",
+      "summary": "Beschreibt die Klausur als zeitlich begrenzten Nachweis fachlicher Kenntnisse und Methodenkompetenz.",
+      "text": "Schriftliche Prüfungsleistungen können in Form des Antwort -Wahl-Verfahrens (z. B. Multiple-Choice-Verfahren) erfolgen. Das Antwort -Wahl-Verfahren kann auch in elektronischer (computerunterstützter) Form durchgeführt werden."
+    },
+    {
+      "id": "p17s2",
+      "citation": "§ 17 Abs. 2",
+      "summary": "Erlaubt schriftliche Prüfungen im Antwort-Wahl-Verfahren und legt Grundregeln dafür fest.",
+      "text": "Prüfungsaufgaben in der Form des Antwort-Wahl-Verfahrens sind von zwei Prüfungsberechtigten zu stellen. Die Prüfungsfragen und die möglichen Antworten (die richtigen und falschen Antworten, Prüfungsaufgaben) inkl. der Punktevergabe werden von mindestens zwei Prüfern erarbeitet und schriftlich festgelegt. Auf dem Antwortbogen ist die Punktzahl anzugeben, die bei richtiger Lösung der Frage erreicht werden kann, es sei denn, alle Fragen werden mit derselben Punktzahl bewertet. Die Prüfer/innen sind für die ord nungsgemäße Durchführung der Prüfung sowie die Auswertung der Antwortbögen verantwortlich."
+    },
+    {
+      "id": "p17s3",
+      "citation": "§ 17 Abs. 3",
+      "summary": "Definiert die Bestehensgrenze und Bewertungssystematik für Antwort-Wahl-Prüfungen.",
+      "text": "Eine Prüfungsleistung nach dem Antwort -Wahl-Verfahren ist bestanden, wenn der/die Prüfungskandidat/in mindestens 50 Prozent der möglichen Punktzahl erreicht hat (absolute Bestehensgrenze) oder wenn die vom Prüfling erreichte Punktzahl um nicht mehr als 22 Prozent die durchschnittlichen Prüfungsleistungen der Prüflinge des jeweiligen Prüfungstermins unterschreitet (relative Bestehensgrenze/Gleitklausel). Die Referenzgruppe bilden die zu prüfenden Personen, die an der Prüfung teilnehmen. Die relative Bestehensgrenze ist nur dann zu berücksichtigen, wenn sie unterhalb der absoluten Bestehensgrenze liegt. Kommt die Gleitklausel zur Anwendung, so müssen für das Bestehen der Prüfung mindestens 40 Prozent der möglichen Punktzahl erreicht worden sein. Die studiengangspezifischen Bestimmungen können einen anderen Wert für die absolute Bestehensgrenze festlegen."
+    },
+    {
+      "id": "p17s4",
+      "citation": "§ 17 Abs. 4",
+      "summary": "Definiert die Bestehensgrenze und Bewertungssystematik für Antwort-Wahl-Prüfungen.",
+      "text": "Hat der/die Prüfungskandidat/in die für das Bestehen der Prüfung nach Abs. 3 erforderliche Mindestzahl der möglichen Punkte erreicht, so sind die Leistungen der Multiple-Choice-Prüfung gemäß § 19 Abs. 2 zu bewerten. Im Fall der Gleitklausel wird die Bewertungsskala linear um die Differenz zwischen absoluter und relativer Bestehensgrenze verschoben."
+    },
+    {
+      "id": "p17s5",
+      "citation": "§ 17 Abs. 5",
+      "summary": "Regelt den Umgang mit fehlerhaften Fragen oder Antwortmöglichkeiten in Antwort-Wahl-Prüfungen.",
+      "text": "Ergibt sich nach Durchführung der Prüfung, dass einzelne Prüfungsfragen oder Antwortmöglichkeiten fehlerhaft sind, gelten die betreffenden Prüfungsaufgaben als nicht gestellt; die insgesamt erreichbare Punktzahl vermindert sich entsprechend; bei der Festst ellung der Prüfergebnisse ist die verminderte Gesamtpunktzahl zugrunde zu legen. Die verminderte Aufgabenzahl/Gesamtpunktzahl darf sich nicht zum Nachteil einer zu prüfenden Person auswirken."
+    },
+    {
+      "id": "p17s6",
+      "citation": "§ 17 Abs. 6",
+      "summary": "Beschreibt die Klausur als zeitlich begrenzten Nachweis fachlicher Kenntnisse und Methodenkompetenz.",
+      "text": "Schriftliche Prüfungsleistungen können auch nur zu einem Teil aus Fragen nach dem Antwort-Wahl-Verfahren bestehen. In diesem Fall gelten die Absätze 1 bis 5 entsprechend. Die Note des Prüfungsteils, der nach dem Antwort-Wahl-Verfahren zu erbringen ist, fließt entsprechend dem Verhältnis zwischen der in diesem Prüfungsteil zu erwerbenden Punktzahl und der in der Prüfungsleistung zu erwerbenden Gesamtpunktzahl in die Gesamtnote der Prüfungsleistung ein."
+    }
+  ],
+  "source": "Rahmenstudien- und -prüfungsordnung für das Bachelorstudium an der Hochschule Merseburg",
+  "page_from": 15,
+  "page_to": 15
+}

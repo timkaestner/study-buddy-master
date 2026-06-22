@@ -1,0 +1,73 @@
+{
+    "id": "btid-mod-6-1",
+    "modulnummer": "-",
+    "name": "Praxisprojekt",
+    "semester": 6,
+    "modultyp": "pflicht",
+    "credits": 15,
+    "workload_stunden": 450,
+    "verantwortlich": "alle Prüferinnen und Prüfer",
+    "modulbestandteile": [
+        {
+            "name": "Praktikum im Unternehmen",
+            "art": "praktikum im unternehmen",
+            "dozent": "-",
+            "kontaktzeit": "min. 3 Konsultationen,individuelle Betreuung",
+            "selbststudiumsstunden": 360
+        },
+        {
+            "name": "Praktikumsbericht",
+            "art": "studienarbeit nach dem praktikum",
+            "dozent": "-",
+            "kontaktzeit": "min. 3 Konsultationen,individuelle Betreuung",
+            "selbststudiumsstunden": 90
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "praktikumsbericht",
+            "umfang": "mind. 20 Seiten",
+            "bearbeitungsdauer": "9-12 Wochen Praktikum (360h), ca. 2-3 Wochen Praktikumsbericht (90h)"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Im Praktikum sollen konkrete Aufgabenstellungen aus der beruflichen Praxis selbständig und unter Anwendung der im Studium erworbenen Kenntnisse und Kompetenzen bearbeitet werden.",
+                "Das Thema des Praktikumsbelegs resultiert aus dem Tätigkeitsfeld der Praktikumsaufgaben. Zu wählen ist ein industrienahes Thema, das einen klaren Bezug zu Kerninhalten des Studiums aufweist.",
+                "Das Thema ist nach den Regeln des wissenschaftlichen Arbeitens zu bearbeiten. Es soll sowohl aus theoretischer als auch aus anwendungsorientierter Perspektive bearbeitet werden und dabei geeignete Forschungsliteratur einfließen lassen.",
+                "Der Umfang des Praktikumsberichts beträgt mindestens 20 Seiten (ohne Deckblätter und Anhänge)."
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden erproben ihre Fähigkeit zum Erkennen und Lösen praktischer Problemstellungen in einem industrierelevanten Kontext. ",
+                "Die Studierenden vertiefen ihre Fähigkeit zur Erarbeitung und Umsetzung von Lösungsvorschlägen auf wissenschaftlicher Basis. ",
+                "Die Studierenden entwickeln die Fähigkeit weiter, Themen nach den Regeln wissenschaftlichen Arbeitens zu bearbeiten und darzustellen"
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "erfolgreicher praktikumsbericht"
+        ],
+        "haeufigkeit_des_angebots": "Sommersemester",
+        "dauer": "9-12 Wochen Praktikum, anschließend 2-3 Wochen Praktikumsbericht"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 69 ]
+    }
+
+
+
+}

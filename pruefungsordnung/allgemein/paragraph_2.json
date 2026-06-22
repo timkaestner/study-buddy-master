@@ -1,0 +1,32 @@
+{
+    "id": "p2",
+    "section": "I",
+    "section_title": "Allgemeine Bestimmungen",
+    "paragraph": 2,
+    "citation": "§ 2",
+    "title": "Ziel des Studiums",
+    "summary": "Das Bachelorstudium vermittelt wissenschaftliche Grundlagen, fachliche Kompetenzen und die Fähigkeit zur berufsfeldbezogenen Anwendung des erworbenen Wissens.",
+    "subsections": [
+      {
+        "id": "p2a1",
+        "citation": "§ 2 Abs. 1",
+        "summary": "Das Studium vermittelt Kenntnisse, Fähigkeiten und Methoden und befähigt zu fundierter Urteilsfähigkeit, kritischer Reflexion und verantwortlichem Handeln.",
+        "text": "Das Studium im Rahmen von gestuften Bachelor- und Masterstudiengängen wird den Studierenden unter Berücksichtigung der Anforderungen und Veränderungen in der Berufswelt die erforderlichen fachlichen Kenntnisse, Fähigkeiten und Methoden so vermitteln, dass sie zu fundierter Urteilsfähigkeit, zur kritischen Einordnung der Erkenntnisse und zu verantwortlichem Handeln befähigt werden. Das Bachelorstudium ist berufsqualifizierend."
+      },
+      {
+        "id": "p2a2",
+        "citation": "§ 2 Abs. 2",
+        "summary": "Im Bachelorstudium werden grundlegende Methoden, Fragestellungen und Theorien vermittelt. Ziel ist die berufsfeldspezifische Anwendung und Vermittlung des Wissens.",
+        "text": "Im Bachelorstudium werden die grundlegenden Methoden, Fragestellungen und Theorien der Fachwissenschaften vermittelt. Ziel des Studiums ist die Fähigkeit, das erworbene Wissen berufsfeldspezifisch anzuwenden und zu vermitteln. Dabei wird im Studium zunächst auf die Pluralität möglicher Berufsfelder Bezug genommen."
+      },
+      {
+        "id": "p2a3",
+        "citation": "§ 2 Abs. 3",
+        "summary": "Weitere Einzelheiten regeln die studiengangspezifischen Bestimmungen.",
+        "text": "Weiteres dazu regeln die studiengangspezifischen Bestimmungen."
+      }
+    ],
+  "source": "Rahmenstudien- und -prüfungsordnung für das Bachelorstudium an der Hochschule Merseburg",
+  "page_from": 3,
+  "page_to": 3
+  }

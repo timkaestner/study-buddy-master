@@ -1,0 +1,83 @@
+{
+    "id": "btid-mod-1-1",
+    "modulnummer": "1.1",
+    "name": "Angewandte Informatik",
+    "semester": 1,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Nico Scheithauer",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Angewandte Informatik",
+            "art": [
+                "vorlesung"
+            ],
+            "dozent": "Nico Scheithauer",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Angewandte Informatik",
+            "art": [
+                "übung"
+            ],
+            "dozent": "Nico Scheithauer",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "Klausur",
+            "dauer_minuten": 120
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Grundlagen und Historie der Informatik, Überblick der Teilgebiete",
+                "Grundlagen der p-adischen Zahlendarstellungen und deren Umrechnungen",
+                "Grundlagen des Aufbaus und der Funktionsweise eines Rechners",
+                "Vom Problem zum Programm – Analyse und Entwurf, Einführung in die Software-Technik",
+                "Algorithmen und Programmierprinzipien: Iteration, Rekursion, Teile & Herrsche, Monte-Carlo",
+                "Algorithmen mit Containern: Suchen und Sortieren",
+                "Grundlagen der objektorientierten Programmierung"
+            ]
+
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden erhalten einen Überblick über das wissenschaftliche Gebiet sowie Teilgebiete der Informatik.",
+                "Die Studierenden lernen die Funktionsweise von Rechnern auf der Basis der Von-Neumann-Architektur kennen.",
+                "Die Studierenden verstehen den Zusammenhang von höherer Programmiersprache und den Vorgängen auf Maschinenebene.",
+                "Die Studierenden erwerben Grundlagen der Programmiersprache C/C++.",
+                "Die Studierenden kennen im Ansatz die Grundlagen des objektorientierten Entwurfes und der objektorientierten Programmierung.",
+                "Die Studierenden sind in der Lage, auf der Basis ihres erworbenen Wissens auch andere Programmiersprachen selbständig zu erlernen.",
+                "Die Studierenden können Probleme der Realität unter algorithmischen Gesichtspunkten analysieren, eine Lösung entwerfen und diese in die Programmiersprache umsetzen."
+            ]
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "50% der Übungsaufgaben",
+            "bestandene Klausur"
+        ],
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 14, 15 ]
+    }
+}

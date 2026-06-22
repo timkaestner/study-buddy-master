@@ -1,0 +1,106 @@
+{
+    
+    "id": "btid-mod-1-3",
+    "modulnummer": "1.3",
+    "name": "Grundlagen Sprache und Visualisierung I",
+    "semester": 1,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Prof. Dr. Michael Meng",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Linguistische Grundlagen I",
+            "art": [
+                "seminar"
+            ],
+            "dozent": "Prof. Dr. Michael Meng",
+            "sws":2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Vektorgrafik",
+            "art": [
+                "seminar"
+            ],
+            "dozent": "Dipl. Tech. Red. Georg Busch",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "lv1",
+            "form": "klausur",
+            "dauer_minuten": 60
+        },
+        {
+            "bezug": "lv2",
+            "form": "hausarbeit",
+            "bearbeitungszeitraum": "2 Monate"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Sprachwissenschaft und ihre Teildisziplinen",
+                "Sprache als Untersuchungsgegenstand der Sprachwissenschaft",
+                "Semiotik: Zeichenmodelle, Zeichenlasse, Sprachliche Zeichen",
+                "Grammatik: Phone/Phoneme/Morphe/Morpheme, Wortbildung, Syntax",
+                "Semantik: Bedeutungsrelation, Merkmalsemantik, Wortfelder"
+            ]
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "Anwendungsgebiete von Vektorgrafiken",
+                "Grundlagen der Illustration",
+                "Abstraktionsgrade",
+                "Anatomie einer Vektorgrafik",
+                "Grundlegende Werkzeuge und Arbeitsweisen"
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "lv1",
+            "inhalte": [
+                "Die Studierenden lernen die Sprachwissenschaft und ihre Teildisziplinen kennen.",
+                "Die Studierenden kennen unterschiedliche Kommunikationsmodelle",
+                "Die Studierenden kennen unterschiedliche Zeichenmodelle, können unterschiedliche Zeichenklassen unterscheiden und erlernen die Charakteristika sprachlicher Zeichen.",
+                "Die Studierenden können eine Konstituentenanalyse durchführen",
+                "Die Studierenden können grammatische Aspekte erklären und Sätze strukturell und semantisch analysieren.",
+                "Die Studierenden können semantische Wortanalysen vornehmen."
+            ]
+        },
+        {
+            "bezug": "lv2",
+            "inhalte": [
+                "Die Studierenden kennen die Einsatzbereiche von Vektorgrafiken und deren Vor- und Nachteile.",
+                "Die Studierenden sammeln konzeptuelle und praktische Erfahrungen im Umgang mit Vektorgrafiken.",
+                "Die Studierenden kennen die Werkzeuge und Workflows zum Erstellen von Vektorgrafiken."
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "LV1: bestandene Klasur",
+            "LV2: bestandene Hausarbeit"
+        ],
+
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 18, 19 ]
+    }
+
+}

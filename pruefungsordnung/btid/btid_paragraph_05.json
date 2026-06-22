@@ -1,0 +1,38 @@
+{
+  "id": "btid_p5",
+  "section": "Anlage 1",
+  "section_title": "Studiengangspezifische Bestimmungen für den Bachelorstudiengang Technisches Informationsdesign",
+  "paragraph": 5,
+  "citation": "§ 5",
+  "title": "Regelstudienzeit, Module und Leistungspunktesystem",
+  "summary": "Legt die Regelstudienzeit auf 6 Semester fest, beschreibt das optionale vorgeschaltete Studienmodell Kompass, nennt mindestens 180 Credits und verweist auf den Modulplan in Anlage 2.",
+  "subsections": [
+    {
+      "id": "btid_p5s1",
+      "citation": "§ 5 Abs. 1",
+      "summary": "Die Regelstudienzeit beträgt 6 Semester.",
+      "text": "Die Regelstudienzeit beträgt 6 Semester."
+    },
+    {
+      "id": "btid_p5s2",
+      "citation": "§ 5 Abs. 2",
+      "summary": "Das einsemestrige Studienmodell Kompass kann vorgeschaltet werden und erhöht die Regelstudienzeit auf 7 Semester.",
+      "text": "Dem Studiengang kann optional das einsemestrige Studienmodell Kompass vorgeschaltet werden, das damit integraler Bestandteil des Studiengangs wird. Aufgrund besonderer Rahmenbedingungen in diesem Studienmodell sind die studien- und prüfungsrelevanten Regelungen in der Rahmenstudien- und -prüfungsordnung für Bachelorstudiengänge an der Hochschule Merseburg in der jeweils geltenden Fassung zusammengefasst. Wird das Studienmodell Kompass als integraler Bestandteil des Studiengangs vorgeschaltet, so erhöht sich damit die Regelstudienzeit des Studiengangs auf 7 Semester."
+    },
+    {
+      "id": "btid_p5s3",
+      "citation": "§ 5 Abs. 3",
+      "summary": "Für den erfolgreichen Abschluss sind mindestens 180 Credits erforderlich.",
+      "text": "Für einen erfolgreichen Abschluss des Bachelorstudiums sind mindestens 180 Credits zu erwerben."
+    },
+    {
+      "id": "btid_p5s4",
+      "citation": "§ 5 Abs. 4",
+      "summary": "Der Modulplan des Studiengangs ist als Anlage 2 beigefügt.",
+      "text": "Der Modulplan des ingenieurwissenschaftlichen Studiengangs BTID ist als Anlage 2 diesen Bestimmungen beigefügt."
+    }
+  ],
+  "source": "Anlage 1: Studiengangspezifische Bestimmungen für das Bachelorstudium im Studiengang „Technisches Informationsdesign“ (BTID) am Fachbereich Ingenieur- und Naturwissenschaften an der Hochschule Merseburg",
+  "page_from": 25,
+  "page_to": 25
+}

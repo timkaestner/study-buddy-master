@@ -1,0 +1,26 @@
+{
+    "id": "p3",
+    "section": "I",
+    "section_title": "Allgemeine Bestimmungen",
+    "paragraph": 3,
+    "citation": "§ 3",
+    "title": "Bachelorgrad",
+    "summary": "Nach erfolgreichem Abschluss verleiht die Hochschule Merseburg den Bachelorgrad und stellt eine Urkunde aus.",
+    "subsections": [
+      {
+        "id": "p3s1",
+        "citation": "§ 3 Satz 1-2",
+        "summary": "Die Hochschule Merseburg verleiht nach erfolgreichem Abschluss den Bachelorgrad. Die genaue Bezeichnung ergibt sich aus den studiengangspezifischen Bestimmungen.",
+        "text": "Nach erfolgreichem Abschluss aller Leistungen des Bachelorstudiums verleiht die Hochschule Merseburg den akademischen Grad eines Bachelors. Die genaue Bezeichnung des Grades regeln die jeweiligen studiengangspezifischen Bestimmungen."
+      },
+      {
+        "id": "p3s2",
+        "citation": "§ 3 Satz 3-4",
+        "summary": "Über die Verleihung des Bachelorgrades wird eine Urkunde ausgestellt. Weitere Regelungen finden sich in § 21.",
+        "text": "Über die Verleihung des Bachelorgrades stellt die Hochschule Merseburg eine Urkunde aus. Weiteres dazu regelt § 21."
+      }
+    ],
+  "source": "Rahmenstudien- und -prüfungsordnung für das Bachelorstudium an der Hochschule Merseburg",
+  "page_from": 3,
+  "page_to": 3
+}

@@ -1,0 +1,81 @@
+{
+    "id": "btid-mod-5-5",
+    "modulnummer": "5.5",
+    "name": "Usabilty Engineering",
+    "semester": 5,
+    "modultyp": "wahlpflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Prof. Dr. Lisa Wenige",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Usabilty Engineering",
+            "art": [
+                "seminar"
+            ],
+            "dozent": "Prof. Dr. Lisa Wenige",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Usabilty Engineering",
+            "art": [
+                "projekt"
+            ],
+            "dozent": "Prof. Dr. Lisa Wenige",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "projektarbeit",
+            "bearbeitungszeitraum": "semesterbegleitend"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Usability und User Experience: konstitutive Merkmale, Zusammenhänge, Abgrenzung",
+                "Usability Engineering und nutzerzentriertes Design",
+                "Gestaltung von Benutzeroberflächen: Informationsarchitektur, Gestaltungsraster und Responsivität, Oberflächen-Komponenten, Beschriftungen, Fehlermeldungen, Barrierefreiheit",
+                "Anwendung der theoretischen und methodischen Grundlagen im Projekt: Konzeptionierung und Planung, Umsetzung mit einem gängigen Frontend-Framework"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden verstehen konstitutive Merkmale und Prozessphasen des Usability Engineerings sowie weitere grundlegende Begriffe der Usability- und User Experience-Forschung. ",
+                "Die Studierenden erproben und üben die Anwendung der theoretischen und methodischen Grundlagen auf Fragestellungen aus der Praxis",
+                "Die Studierenden erwerben Erfahrungen in der Planung und Implementierung von Benutzeroberflächen.",
+                "Die Studierenden festigen ihre Fähigkeit zu projektbezogener und kundenorientierter Teamarbeit. "
+
+            ]
+
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "erfolgreiche projektarbeit"
+        ],
+        "haeufigkeit_des_angebots": "Wintersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 64, 65 ]
+    }
+
+
+
+}

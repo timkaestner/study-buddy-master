@@ -1,0 +1,79 @@
+{
+    "id": "btid-mod-2-1",
+    "modulnummer": "2.1",
+    "name": "Webentwicklung",
+    "semester": 2,
+    "modultyp": "pflicht",
+    "credits": 5,
+    "workload_stunden": 150,
+    "verantwortlich": "Dr. Thomas Meinike",
+    "lehrveranstaltungen": [
+        {
+            "lv_id": "lv1",
+            "name": "Web-Entwicklung",
+            "art": [
+                "vorlesung"
+            ],
+            "dozent": "Dr. Thomas Meinike",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        },
+        {
+            "lv_id": "lv2",
+            "name": "Web-Entwicklung",
+            "art": [
+                "übung"
+            ],
+            "dozent": "Dr. Thomas Meinike",
+            "sws": 2,
+            "kontaktstunden": 30,
+            "selbststudiumsstunden": 45
+        }
+    ],
+    "pruefungen": [
+        {
+            "bezug": "gesamtmodul",
+            "form": "Seminararbeit/ Hausarbeit u. Präsentation",
+            "bearbeitungszeitraum": "semesterbegleitend"
+        }
+    ],
+    "lerninhalte": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Auffrischung und Vertiefung der HTML-Grundkenntnisse",
+                "Einführung in die clientseitige Programmierung mit JavaScript",
+                "Einführung in die serverseitige Programmierung (mit PHP und MySQL)",
+                "Neue programmatische Schnittstellen von HTML5",
+                "Umsetzung von Grafiken wie Charts mit den Konzepten SVG und Canvas",
+                "Einblick in aktuelle zur Web-Entwicklung eingesetzte Frameworks",
+                "Praktische Arbeit mit den vermittelten Technologien an Beispielen",
+                "Umsetzung einer selbst gewählten Anwendungsidee oder Einsatz eines Frameworks"
+
+            ]
+        }
+    ],
+    "lernergebnisse_kompetenzen": [
+        {
+            "bezug": "gesamtmodul",
+            "inhalte": [
+                "Die Studierenden werden in grundlegende Aspekte der Web-Entwicklung eingeführt.",
+                "Die Studierenden verstehen die in Redaktionen und Agenturen verwendeten Konzepte und Technologien sowie deren Zusammenwirken",
+                "Die Studierenden setzen ausgehend von den erworbenen Kenntnissen adäquate Ideen in Projektarbeiten einzeln oder in kleinen Gruppen um"
+            ]
+        }
+    ],
+    "weitere_informationen": {
+        "formale_voraussetzungen": "keine",
+        "vergabe_kreditpunkte": [
+            "erflogreiche Seminararbeit/ Hausarbeit mit Präsentation"
+        ],
+        "haeufigkeit_des_angebots": "Sommersemester",
+        "dauer": "1 Semester"
+    },
+    "quelle": {
+        "dokument": "Modulhandbuch Technisches Informationsdesign",
+        "seiten": [ 26 ]
+    }
+}
